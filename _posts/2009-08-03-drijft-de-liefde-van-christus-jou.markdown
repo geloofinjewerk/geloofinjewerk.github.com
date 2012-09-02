@@ -21,7 +21,7 @@ tags:
 
 Heel veel niet-christenen vinden het irritant dat christenen proberen “hun geloof op te dringen.” Misschien moeten we daar maar eens mee stoppen dan...
 
-![Afbeelding van een Bijbeltekst](http://www.geloofinjewerk.nl/images/2009/08/bijbeltekst.jpg)
+![Afbeelding van een Bijbeltekst](/images/2009/08/bijbeltekst.jpg)
 
 Ja maar, we hebben toch de opdracht om het evangelie te vertellen? Klopt. En staat niet in [2 Tim. 4:2](http://www.biblija.net/biblija.cgi?m=2+Timoteus+4%3A2&id18=1&pos=0&l=nl&set=10) dat we de boodschap moeten vertellen of het nu gelegen of ongelegen komt? Klopt ook.
 

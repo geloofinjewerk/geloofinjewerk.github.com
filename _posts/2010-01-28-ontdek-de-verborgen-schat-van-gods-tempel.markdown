@@ -4,7 +4,7 @@ date: 2010-01-28 08:00:10
 excerpt: Wist je dat jij een tempel van God bent? In dit artikel laat ik je een interessante
   lijn vanuit het Oude Testament naar vandaag zien en leg ik je uit wat het betekent
   om een tempel van God te zijn.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: ontdek-de-verborgen-schat-van-gods-tempel
 title: Ontdek de verborgen schat van Gods tempel
@@ -43,7 +43,7 @@ In de zomer trekken horden Nederlanders naar het buitenland om “lekker naar de
 
 De voorloper van de tempel was de tabernakel. Dit was een tent die God door Mozes liet maken terwijl het volk in Israël rondtrok in de woestijn. God droeg de Israëlieten op om de tabernakel te bouwen omdat Hij graag te midden van het volk wilde wonen ([Ex. 25:8](http://www.biblija.net/biblija.cgi?m=Ex+25%3A8&id42=0&id18=1&pos=0&l=nl&set=10)).
 
-![](http://www.geloofinjewerk.nl/images/2010/01/Woestijn.jpg)
+![](/images/2010/01/Woestijn.jpg)
 
 
 

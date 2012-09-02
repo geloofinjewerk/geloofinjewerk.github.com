@@ -3,7 +3,7 @@ comments: true
 date: 2011-02-02 10:00:20
 excerpt: Het evangelie van het Koninkrijk van God omvat ook het evangelie van redding.
   Jezus Christus heeft het koningschap aanvaard, wat een goed nieuws!
-image: http://www.geloofinjewerk.nl/images/2011/02/stormzee.jpg
+image: /images/2011/02/stormzee.jpg
 layout: post
 slug: trekken-of-duwen
 title: Trekken of duwen?
@@ -16,7 +16,7 @@ tags:
 - koninkrijk
 ---
 
-_Dit is het tweede deel in onze serie over het [Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/)._
+_Dit is het tweede deel in onze serie over het [Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/)._
 
 Stel, je vaart op een mooi cruiseschip en er steekt een zware storm op. Een storm zo groot, dat het cruiseschip er niet tegen opgewassen is. Het schip gaat zinken.
 
@@ -71,7 +71,7 @@ Dit is meer een _duwbeweging_: de komst van het koningschap van Jezus.
 
 Het verkondigen van het evangelie van redding is een trekbeweging: mensen redden uit de wereld en van de hel. Het verkondigen van het evangelie van het koninkrijk is een duwbeweging: het koningschap van Jezus bij de mensen brengen. Wat is nu het juiste?
 
-Beiden. Het evangelie van redding is juist, maar onvolledig. Het is te beperkt. Het evangelie van het koninkrijk omvat het evangelie van redding: Jezus stierf voor onze zonden, zegevierde over de dood en aanvaardde het koningschap. Hierdoor is een relatie met de Vader weer mogelijk en kunnen we leven als [koningszonen in plaats van dooie honden](http://www.geloofinjewerk.nl/2011/01/26/stelletje-dooie-honden/).
+Beiden. Het evangelie van redding is juist, maar onvolledig. Het is te beperkt. Het evangelie van het koninkrijk omvat het evangelie van redding: Jezus stierf voor onze zonden, zegevierde over de dood en aanvaardde het koningschap. Hierdoor is een relatie met de Vader weer mogelijk en kunnen we leven als [koningszonen in plaats van dooie honden](/2011/01/26/stelletje-dooie-honden/).
 
 Van daaruit kunnen we het goede nieuws van het koninkrijk vertellen, tot het einde komt:
 
@@ -82,7 +82,7 @@ Van daaruit kunnen we het goede nieuws van het koninkrijk vertellen, tot het ein
 
 **Vraag:** Hoe denk jij over het Koninkrijk van God?
 
-Lees ook deel drie in de serie over het [Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/): [Het koninkrijk van kracht](http://www.geloofinjewerk.nl/2011/02/09/koninkrijk-kracht/).
+Lees ook deel drie in de serie over het [Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/): [Het koninkrijk van kracht](/2011/02/09/koninkrijk-kracht/).
 
 
 

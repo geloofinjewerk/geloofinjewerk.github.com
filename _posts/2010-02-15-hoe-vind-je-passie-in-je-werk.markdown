@@ -3,7 +3,7 @@ comments: true
 date: 2010-02-15 08:00:08
 excerpt: In dit gastartikel bespreekt Wim Slabbekoorn van Slabbekoorn Consultancy
   hoe je passie in je werk kunt vinden.
-image: http://www.geloofinjewerk.nl/images/2010/02/pianospelen.jpg
+image: /images/2010/02/pianospelen.jpg
 layout: post
 slug: hoe-vind-je-passie-in-je-werk
 title: Hoe vind je passie in je werk?

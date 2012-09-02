@@ -38,7 +38,7 @@ Na 7 jaar lang stapje voor stapje zelf te ontdekken wie ik ben in Christus en ee
 
 
 
-![Afbeelding van e-book De Spiegel](http://www.geloofinjewerk.nl/images/2010/03/De-Spiegel-breed.png)E-book De Spiegel is een uitleg van jouw identiteit in Christus.
+![Afbeelding van e-book De Spiegel](/images/2010/03/De-Spiegel-breed.png)E-book De Spiegel is een uitleg van jouw identiteit in Christus.
 
 Het is geen saaie vers-voor-vers verklaring maar een levendige en praktische uitleg van twintig onderdelen van je identiteit in Christus.
 

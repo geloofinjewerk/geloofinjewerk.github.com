@@ -5,7 +5,7 @@ excerpt: Vaak zeggen we dat mensen die “full-time voor God werken”, in diens
   God of in dienst van het Koninkrijk staan. Die uitspraak klopt helemaal niet, want
   iedere christen staat in dienst van God. Wat dat precies betekent laat ik in dit
   artikel zien.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: als-god-je-werkgever-is
 title: Als God je werkgever is
@@ -37,7 +37,7 @@ In dit vers staat heel veel belangrijke informatie over jouw identiteit. Vroeger
 
 Gelukkig is daar verandering in gekomen, je hebt een nieuwe werkgever gekregen: God. God heeft je aangenomen, terwijl je waarschijnlijk niet eens bij Hem gesolliciteerd hebt.
 
-![Managementoverleg](http://www.geloofinjewerk.nl/images/2009/12/Managementoverleg.jpg)
+![Managementoverleg](/images/2009/12/Managementoverleg.jpg)
 
 
 
@@ -52,7 +52,7 @@ Dit betekent dat je ook op je werk in dienst staat van God en niet alleen in je 
 
 Doordat het hier zo over werken en dienen gaat, is het heel eenvoudig om je daarop te richten. Maar het gaat echt niet (alleen) om werken voor God, het gaat juist om liefde. Liefde vòòr arbeid.
 
-![Contract](http://www.geloofinjewerk.nl/images/2009/12/Contract.jpg)
+![Contract](/images/2009/12/Contract.jpg)
 
 
 

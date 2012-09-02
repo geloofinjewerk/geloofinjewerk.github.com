@@ -4,7 +4,7 @@ date: 2010-09-29 10:00:33
 excerpt: De gaven van de Geest zijn ook voor op de werkvloer, de Geest beperkt zich
   niet tot het leven buiten ons werk. Elke gave is voor iedere christen beschikbaar.
   De Geest geeft het benodigde op het juiste moment. Ook op de werkvloer.
-image: http://www.geloofinjewerk.nl/images/2010/09/duif.jpg
+image: /images/2010/09/duif.jpg
 layout: post
 slug: gaven-werk
 title: Zijn de gaven van de Geest ook voor op het werk?
@@ -16,7 +16,7 @@ tags:
 - Heilige Geest
 ---
 
-De [Heilige Geest](http://www.geloofinjewerk.nl/2010/09/15/wat-doet-de-heilige-geest-op-je-werk/) is een [gevoelig onderwerp](http://www.medema.nl/?item=toonobject&id=3004) onder christenen. De gaven van de Geest al helemaal. Toch is het een belangrijk onderwerp, dat ik niet uit de weg wil gaan.
+De [Heilige Geest](/2010/09/15/wat-doet-de-heilige-geest-op-je-werk/) is een [gevoelig onderwerp](http://www.medema.nl/?item=toonobject&id=3004) onder christenen. De gaven van de Geest al helemaal. Toch is het een belangrijk onderwerp, dat ik niet uit de weg wil gaan.
 
 Dit artikel bevat mijn opvatting hierover, op basis van mijn geloof, mijn uitleg van de Bijbel en mijn ervaring. Voel je vrij om het niet met me eens te zijn. :-)
 
@@ -103,7 +103,7 @@ De gemeente is in mijn ogen niet alleen de plaatselijke gemeente die op zondag s
 
 De plaatselijke gemeente zou je kunnen omschrijven als de gemeente als ‘stad op de berg’ ([Mat. 5:14](http://www.biblija.net/biblija.cgi?m=Mat+5%3A14&id42=0&id18=1&pos=0&l=nl&set=10)). Het lichtpunt dat mensen moet aantrekken.
 
-Jezus gebruikt naast de stad op de berg nóg een metafoor voor zijn leerlingen: [zout van de aarde](http://www.geloofinjewerk.nl/2009/11/12/het-geheim-van-het-zout-van-de-aarde/) ([Mat. 5:13](http://www.biblija.net/biblija.cgi?m=Mat+5%3A13&id42=0&id18=1&pos=0&l=nl&set=10)). Het zout dat op maandag uitgestrooid wordt doordat vele leerlingen van Jezus naar hun werk gaan. Ook dat is de gemeente.
+Jezus gebruikt naast de stad op de berg nóg een metafoor voor zijn leerlingen: [zout van de aarde](/2009/11/12/het-geheim-van-het-zout-van-de-aarde/) ([Mat. 5:13](http://www.biblija.net/biblija.cgi?m=Mat+5%3A13&id42=0&id18=1&pos=0&l=nl&set=10)). Het zout dat op maandag uitgestrooid wordt doordat vele leerlingen van Jezus naar hun werk gaan. Ook dat is de gemeente.
 
 
 
@@ -112,7 +112,7 @@ Jezus gebruikt naast de stad op de berg nóg een metafoor voor zijn leerlingen: 
 
 Ja, naar mijn mening wel. Veel gaven zijn openbaringen van God om door te geven aan anderen. Dat kan ook prima op het werk.
 
-De Geest beperkt zich niet tot het leven buiten ons werk. [God spreekt ook over werkgerelateerde zaken.](http://www.geloofinjewerk.nl/2009/11/05/spreekt-god-in-je-werk/)
+De Geest beperkt zich niet tot het leven buiten ons werk. [God spreekt ook over werkgerelateerde zaken.](/2009/11/05/spreekt-god-in-je-werk/)
 
 In veel situaties op de werkvloer is wijsheid of kennis nodig. Die staan in het rijtje met gaven. Bijstand verlenen, leiding geven en barmhartig zijn kun je denk ik ook wel plaatsen in je werksituatie. Ook dat zijn gaven van de Geest.
 

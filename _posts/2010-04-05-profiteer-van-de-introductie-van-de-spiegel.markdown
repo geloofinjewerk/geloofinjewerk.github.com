@@ -2,7 +2,7 @@
 comments: true
 date: 2010-04-05 08:00:08
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/03/De-Spiegel-breed.png
+image: /images/2010/03/De-Spiegel-breed.png
 layout: post
 slug: profiteer-van-de-introductie-van-de-spiegel
 title: Profiteer van de introductie van De Spiegel!

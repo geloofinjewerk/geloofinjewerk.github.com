@@ -3,7 +3,7 @@ comments: true
 date: 2009-09-24 08:00:37
 excerpt: Jezus trok rond en verkondigde overal Gods goede nieuws. In 30 seconden is
   een lift beneden. Wat zou jouw boodschap zijn?
-image: http://www.geloofinjewerk.nl/images/2009/09/Kruislift.jpg
+image: /images/2009/09/Kruislift.jpg
 layout: post
 slug: jezus-elevator-pitch
 title: Jezus elevator pitch

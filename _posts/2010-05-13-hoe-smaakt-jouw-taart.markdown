@@ -6,7 +6,7 @@ excerpt: Wanneer je een appeltaartgeloof hebt, dan is jouw leven een appeltaart 
   bovenop. Je geloof is datgene wat de taart afmaakt. Het verschil dat Jezus maakt
   in een leven zit niet in de ingrediënten maar in de smaak, geur en kracht van die
   ingrediënten.
-image: http://www.geloofinjewerk.nl/images/2010/04/taartdiagram.jpg
+image: /images/2010/04/taartdiagram.jpg
 layout: post
 slug: hoe-smaakt-jouw-taart
 title: Hoe smaakt jouw taart?
@@ -46,7 +46,7 @@ Als ik naar het werkblad van een gemiddelde christen kijk dan valt me op dat de 
 
 Wanneer je dit bekijkt ga je je afvragen welk verschil Jezus maakt in een leven. De meeste christenen zullen bevestigend antwoorden als je aan hen vraagt òf Jezus een verschil maakt in hun leven. En toch lijkt een “christenleven” niet zo anders dan het leven van een niet-christen.
 
-![](http://www.geloofinjewerk.nl/images/2010/02/Appeltaart.jpg)
+![](/images/2010/02/Appeltaart.jpg)
 
 
 

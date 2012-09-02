@@ -4,7 +4,7 @@ date: 2009-12-07 08:00:26
 excerpt: Dit jaar is er weer een Waarom Kerst DVD, de film Het is een jongen! Een
   verhaal over drie kwartels die de geboorte van Jezus meemaken. Een prima manier
   om je collega’s kennis te laten maken met het echte Kerstverhaal.
-image: http://www.geloofinjewerk.nl/images/2009/12/wk2009-125x125.gif
+image: /images/2009/12/wk2009-125x125.gif
 layout: post
 slug: 6-redenen-waarom-kerst-dvd
 title: 6 redenen om je collega’s de Waarom Kerst DVD te geven
@@ -31,7 +31,7 @@ Van vorig jaar heb ik geleerd dat, als je deze DVD wilt geven, het verstandig is
 
 
 Ik heb 6 redenen voor je waarom je het zeker niet moet laten om deze DVD aan je collega’s te geven:
-![Het is een jongen!](http://www.geloofinjewerk.nl/images/2009/12/Hetiseenjongen_thumb-300x225.jpg)
+![Het is een jongen!](/images/2009/12/Hetiseenjongen_thumb-300x225.jpg)
 
 
 	

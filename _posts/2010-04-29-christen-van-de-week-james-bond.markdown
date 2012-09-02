@@ -23,7 +23,7 @@ Het [London Institute for Contemporary Christianity](http://www.licc.org.uk/) ma
 
 Bekijk de video hieronder:
 
-(Als je de video niet kunt zien, klik dan [hier](http://www.geloofinjewerk.nl/2010/04/29/christen-van-de-week-james-bond/))
+(Als je de video niet kunt zien, klik dan [hier](/2010/04/29/christen-van-de-week-james-bond/))
 
 Wat mij opviel was de treffende beschrijving van de rol van de kerk, het ervoor zorgen dat de christen:
 

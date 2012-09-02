@@ -4,7 +4,7 @@ date: 2010-07-14 10:00:39
 excerpt: Want wat is er nu heerlijker dan, na een dag stadjes bekijken, bergen beklimmen
   of pretparken bezoeken, ‘s avonds met een goed glas wijn relaxt in je aluminium
   campingstoel te zakken en eens na te denken over de belangrijke zaken in je leven.
-image: http://www.geloofinjewerk.nl/images/2010/05/tent.jpg
+image: /images/2010/05/tent.jpg
 layout: post
 slug: 12-vragen-voor-tijdens-je-vakantie
 title: 12 Vragen voor tijdens je vakantie
@@ -35,7 +35,7 @@ Het is belangrijk om te weten waar je heen vaart, anders kun je de koers niet ve
 
 
 
-Print de vragenlijst uit en zet op je checklist dat je hem zeker niet moet vergeten. ([Een PDF-versie vind je hier.](http://www.geloofinjewerk.nl/images/2010/07/Vragenlijst-vakantie.pdf))
+Print de vragenlijst uit en zet op je checklist dat je hem zeker niet moet vergeten. ([Een PDF-versie vind je hier.](/images/2010/07/Vragenlijst-vakantie.pdf))
 
 Waar de vragen met het werk in het achterhoofd zijn geschreven, kun je ze natuurlijk ook toepassen op andere/alle gebieden van je leven.
 
@@ -92,4 +92,4 @@ Waar de vragen met het werk in het achterhoofd zijn geschreven, kun je ze natuur
   12. Waar zou je op dit moment kunnen bijsturen?
 
 
-**Doen:** Print deze vragenlijst uit en neem hem mee op vakantie. [Een PDF-versie vind je hier.](http://www.geloofinjewerk.nl/images/2010/07/Vragenlijst-vakantie.pdf)
+**Doen:** Print deze vragenlijst uit en neem hem mee op vakantie. [Een PDF-versie vind je hier.](/images/2010/07/Vragenlijst-vakantie.pdf)

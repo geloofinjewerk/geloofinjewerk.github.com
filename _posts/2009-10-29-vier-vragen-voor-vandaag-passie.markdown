@@ -2,7 +2,7 @@
 comments: true
 date: 2009-10-29 08:00:55
 excerpt: Over passie, dromen, sterke en zwakke punten, economie en risico's.
-image: http://www.geloofinjewerk.nl/images/2009/09/Passiebloem.jpg
+image: /images/2009/09/Passiebloem.jpg
 layout: post
 slug: vier-vragen-voor-vandaag-passie
 title: 'Vier vragen voor vandaag: Passie'

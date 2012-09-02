@@ -4,7 +4,7 @@ date: 2009-10-15 08:00:18
 excerpt: We spraken over de kwaliteit van christelijke films. Het lijkt wel alsof
   die altijd minder is dan Hollywood films. Het zette me aan het denken, welke kwaliteit
   streef ik na in mijn werk? Voor wie werk ik?
-image: http://www.geloofinjewerk.nl/images/2009/10/Handperfect.jpg
+image: /images/2009/10/Handperfect.jpg
 layout: post
 slug: welke-kwaliteit-verdient-hij
 title: Welke kwaliteit verdient Hij?

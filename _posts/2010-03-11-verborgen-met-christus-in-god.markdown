@@ -3,7 +3,7 @@ comments: true
 date: 2010-03-11 08:00:33
 excerpt: Je leven ligt met Christus verborgen in God. Je leven ligt in een zwaarbewaakte
   kluis waar niemand kan inbreken.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: verborgen-met-christus-in-god
 title: Verborgen met Christus in God
@@ -37,7 +37,7 @@ Als je dit kunt lezen is de kans dat je levend bent heel groot en is de kans dat
 
 Natuurlijk gezien ben je nog niet gestorven, geestelijk gezien wel. Je bent met Christus gestorven en uit de dood opgewekt. Het gaat met name om je houding: je bent dood ten opzichte van zonde en je oude leven/oude ik. Je bent een nieuwe schepping geworden.
 
-![Afbeelding van een aantal sloten](http://www.geloofinjewerk.nl/images/2010/03/sloten.jpg)
+![Afbeelding van een aantal sloten](/images/2010/03/sloten.jpg)
 
 
 

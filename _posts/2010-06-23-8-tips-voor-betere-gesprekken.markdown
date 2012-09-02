@@ -2,7 +2,7 @@
 comments: true
 date: 2010-06-23 10:00:32
 excerpt: Met deze 8 tips kun je de diepgang en kwaliteit van je gesprekken verbeteren!
-image: http://www.geloofinjewerk.nl/images/2010/05/conversaties.jpg
+image: /images/2010/05/conversaties.jpg
 layout: post
 slug: 8-tips-voor-betere-gesprekken
 title: 8 Tips voor betere gesprekken

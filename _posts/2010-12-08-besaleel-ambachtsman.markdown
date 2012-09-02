@@ -2,7 +2,7 @@
 comments: true
 date: 2010-12-08 10:00:14
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/12/smid.jpg
+image: /images/2010/12/smid.jpg
 layout: post
 slug: besaleel-ambachtsman
 title: 'Besaleël: ambachtsman voor God'
@@ -61,7 +61,7 @@ In zekere zin is/wordt de hele aarde ook een tabernakel, een plek voor God om te
 ## De tabernakel bouwen
 
 
-Heb jij het idee dat jouw werk betekenis heeft voor God? Besaleël en Oholiab (zijn assistent) mochten de tabernakel bouwen en zo [werken voor de Heer](http://www.geloofinjewerk.nl/2009/12/31/als-god-je-werkgever-is/). Dat is ook jouw roeping:
+Heb jij het idee dat jouw werk betekenis heeft voor God? Besaleël en Oholiab (zijn assistent) mochten de tabernakel bouwen en zo [werken voor de Heer](/2009/12/31/als-god-je-werkgever-is/). Dat is ook jouw roeping:
 
 
 > “Wat u ook doet, doe het van harte, alsof het voor de Heer is en niet voor de mensen, want u weet dat u van de Heer een erfenis als beloning zult ontvangen – uw meester is Christus!” ([Kol. 3:23-24](http://www.biblija.net/biblija.cgi?m=kol+3:23-24&id42=0&id18=1&pos=0&l=nl&set=10))
@@ -70,7 +70,7 @@ Heb jij het idee dat jouw werk betekenis heeft voor God? Besaleël en Oholiab (z
 
 Werk alsof het voor de Heer is. Dan bouw je mee aan de tabernakel, de woonplaats van de Heer.
 
-Besaleël werd vervuld met de Geest, niet om te profeteren maar om te werken, niet om wonderen te verrichten maar om te bouwen. Ga jij [vervuld van de Geest naar je werk](http://www.geloofinjewerk.nl/2010/09/15/wat-doet-de-heilige-geest-op-je-werk/)? Versta je [de stem van God in je werk](http://www.geloofinjewerk.nl/2009/11/05/spreekt-god-in-je-werk/)?
+Besaleël werd vervuld met de Geest, niet om te profeteren maar om te werken, niet om wonderen te verrichten maar om te bouwen. Ga jij [vervuld van de Geest naar je werk](/2010/09/15/wat-doet-de-heilige-geest-op-je-werk/)? Versta je [de stem van God in je werk](/2009/11/05/spreekt-god-in-je-werk/)?
 
 Besaleël kreeg talent, inzicht, wijsheid en vakmanschap om zijn ambacht uit te oefenen. Hij was een ambachtsman voor God.
 

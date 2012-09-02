@@ -4,7 +4,7 @@ date: 2009-10-05 08:00:41
 excerpt: 'Dit najaar worden er drie regio-avonden georganiseerd met als thema: ‘christen
   zijn op je werk.’ Eén van deze avonden moet je zeker bezoeken en daarom vind je
   hier 7 redenen om te gaan.'
-image: http://www.geloofinjewerk.nl/images/2009/10/God9-5.jpg
+image: /images/2009/10/God9-5.jpg
 layout: post
 slug: 7-redenen-om-naar-een-regio-avond-%e2%80%98christen-zijn-op-je-werk%e2%80%99-te-gaan
 title: 7 redenen om naar een regio-avond ‘christen zijn op je werk’ te gaan

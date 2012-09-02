@@ -4,7 +4,7 @@ date: 2009-10-19 08:00:59
 excerpt: Ik heb heel lang geloofd dat geestelijke mensen in wezen ‘beter’ waren. Nu
   ben ik erachter dat dat niet klopt. Praktijk en gebed kunnen heel goed hand in hand
   gaan.
-image: http://www.geloofinjewerk.nl/images/2009/10/Biddendehanden.jpg
+image: /images/2009/10/Biddendehanden.jpg
 layout: post
 slug: wat-is-jouw-verhouding-van-werken-en-bidden
 title: Wat is jouw verhouding van werken en bidden?

@@ -6,7 +6,7 @@ excerpt: Soms hoor je weleens iemand zeggen dat we met Jezus wel behouden aankom
   vervolging. Maar is dat wel écht lijden en vervolging? Als mede-erfgenaam van Christus
   deel je in zijn lijden en in zijn verheerlijking. In dit artikel leg ik je uit wat
   dat betekent.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: mede-erfgenaam-van-christus
 title: Mede-erfgenaam van Christus

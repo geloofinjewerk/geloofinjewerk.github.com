@@ -2,7 +2,7 @@
 comments: true
 date: 2010-12-22 10:00:28
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/12/groenten.jpg
+image: /images/2010/12/groenten.jpg
 layout: post
 slug: kleine-dingen-grote-impact
 title: Kleine dingen hebben grote impact

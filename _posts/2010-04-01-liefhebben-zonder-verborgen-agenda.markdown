@@ -5,7 +5,7 @@ excerpt: 'Het probleem van onze bekeringsdrang is dat we het Grote Gebod binnen 
   Grote Opdracht plaatsen. Dit heeft tot gevolg dat we onze medemens gaan liefhebben
   met een verborgen agenda: we hebben ze lief (Grote Gebod) omdat we graag willen
   dat ze tot geloof komen (Grote Opdracht).'
-image: http://www.geloofinjewerk.nl/images/2010/03/Masker.jpg
+image: /images/2010/03/Masker.jpg
 layout: post
 slug: liefhebben-zonder-verborgen-agenda
 title: Liefhebben zonder verborgen agenda

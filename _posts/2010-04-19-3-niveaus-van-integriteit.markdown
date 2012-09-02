@@ -4,7 +4,7 @@ date: 2010-04-19 08:00:38
 excerpt: Integriteit is niet beperkt tot het niet stelen van paperclips en strekt
   zich niet uit tot het redden van de wereld. Daartussen bevinden zich drie niveaus
   van integriteit.
-image: http://www.geloofinjewerk.nl/images/2010/04/integriteit-deel-1.jpg
+image: /images/2010/04/integriteit-deel-1.jpg
 layout: post
 slug: 3-niveaus-van-integriteit
 title: 3 niveaus van integriteit
@@ -26,7 +26,7 @@ Daartussen bevinden zich drie niveaus van integriteit.
 
 In dit artikel leggen we uit wat de drie niveaus zijn waarop integriteit een rol speelt:
 
-![Afbeelding van 3 niveaus van integriteit](http://www.geloofinjewerk.nl/images/2010/04/3-niveaus-integriteit.png)
+![Afbeelding van 3 niveaus van integriteit](/images/2010/04/3-niveaus-integriteit.png)
 
 Laten we ze één voor één bespreken.
 
@@ -34,7 +34,7 @@ Laten we ze één voor één bespreken.
 ## Integriteit op persoonlijk niveau
 
 
-![Afbeelding van 3 niveaus van integriteit - Persoonlijk niveau](http://www.geloofinjewerk.nl/images/2010/04/3-niveaus-integriteit-persoonlijk.png) De meest eenvoudige uitleg van integriteit die ik ooit gehoord heb is:
+![Afbeelding van 3 niveaus van integriteit - Persoonlijk niveau](/images/2010/04/3-niveaus-integriteit-persoonlijk.png) De meest eenvoudige uitleg van integriteit die ik ooit gehoord heb is:
 
 
 > “Integriteit betekent dat je geen paperclips van de baas steelt.”
@@ -52,7 +52,7 @@ Kortom, integriteit op persoonlijk niveau heeft betrekking op jouw functie en jo
 ## Integriteit op bedrijfsniveau
 
 
-![Afbeelding van 3 niveaus van integriteit - Bedrijfsniveau](http://www.geloofinjewerk.nl/images/2010/04/3-niveaus-integriteit-bedrijf.png)Op bedrijfsniveau gaat het om wat er zich binnen het bedrijf afspeelt. Dit kan variëren van het op orde hebben van de boekhouding tot de communicatie naar buiten toe.
+![Afbeelding van 3 niveaus van integriteit - Bedrijfsniveau](/images/2010/04/3-niveaus-integriteit-bedrijf.png)Op bedrijfsniveau gaat het om wat er zich binnen het bedrijf afspeelt. Dit kan variëren van het op orde hebben van de boekhouding tot de communicatie naar buiten toe.
 
 Integriteit wordt weleens gedefinieerd als:
 
@@ -70,7 +70,7 @@ Integriteit op bedrijfsniveau heeft betrekking op de handel en wandel van het be
 ## Integriteit op omgevingsniveau
 
 
-![Afbeelding van 3 niveaus van integriteit - Omgevingsniveau](http://www.geloofinjewerk.nl/images/2010/04/3-niveaus-integriteit-omgeving.png)Op omgevingsniveau spelen klanten, leveranciers, media, overheden en andere stakeholders een rol. Hier gaat het erom hoe zij opereren.
+![Afbeelding van 3 niveaus van integriteit - Omgevingsniveau](/images/2010/04/3-niveaus-integriteit-omgeving.png)Op omgevingsniveau spelen klanten, leveranciers, media, overheden en andere stakeholders een rol. Hier gaat het erom hoe zij opereren.
 
 Bijvoorbeeld een certificaat dat jouw klant heeft om bepaalde werkzaamheden te mogen verrichten. Of de eerlijke handel die de leverancier nastreeft.
 

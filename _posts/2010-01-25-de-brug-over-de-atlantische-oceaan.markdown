@@ -5,7 +5,7 @@ excerpt: Leon de Rijke is lid geworden van het High Calling Blogs Network. Hierm
   proberen we een brug over de Atlantische Oceaan te maken zodat kennis en ervaring
   op het gebied van christen zijn op je werk uitgewisseld kunnen worden tussen Europa
   en Amerika.
-image: http://www.geloofinjewerk.nl/images/2010/01/Brug.jpg
+image: /images/2010/01/Brug.jpg
 layout: post
 slug: de-brug-over-de-atlantische-oceaan
 title: De brug over de Atlantische Oceaan
@@ -18,7 +18,7 @@ tags:
 - High Calling Blogs Network
 ---
 
-Aan de andere kant van de Atlantische Oceaan, in de VS en Canada, is er ontzettend veel gepubliceerd over [christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/).
+Aan de andere kant van de Atlantische Oceaan, in de VS en Canada, is er ontzettend veel gepubliceerd over [christen zijn op je werk](/christen-zijn-op-je-werk/).
 
 Men schat dat er jaarlijks meer dan 250 boeken over het onderwerp verschijnen en er bestaan veel blogs en websites over.
 
@@ -41,7 +41,7 @@ We willen door middel van mijn deelname een **brug** bouwen over de Atlantische 
 
 De taalbarrière is natuurlijk wel een probleem. Omdat mijn site in het Nederlands is heb ik de Wibiya Toolbar geïnstalleerd. Met één druk op de knop Translate (onderin) worden mijn artikelen vertaald.
 
-![](http://www.geloofinjewerk.nl/images/2010/01/blogspromo.jpg)
+![](/images/2010/01/blogspromo.jpg)
 
 
 

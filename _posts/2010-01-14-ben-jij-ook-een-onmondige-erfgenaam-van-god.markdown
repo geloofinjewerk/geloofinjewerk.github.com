@@ -4,7 +4,7 @@ date: 2010-01-14 08:00:13
 excerpt: Als kind van God ben je een erfgenaam van God. Zolang een erfgenaam onmondig
   is, is hij hetzelfde als een slaaf. In dit artikel laat ik zien wat het betekent
   om een erfgenaam van God te zijn.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: ben-jij-ook-een-onmondige-erfgenaam-van-god
 title: Ben jij ook een onmondige erfgenaam van God?

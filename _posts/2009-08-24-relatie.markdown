@@ -4,7 +4,7 @@ date: 2009-08-24 08:00:33
 excerpt: Een relatie kan alleen bestaan door tijd door te brengen met elkaar. In relaties
   met collega's gaat het erom dat je de ander liefhebt zoals je jezelf liefhebt. Juist
   daardoor laat je Jezus zien.
-image: http://www.geloofinjewerk.nl/images/2009/09/Relatie.jpg
+image: /images/2009/09/Relatie.jpg
 layout: post
 slug: relatie
 title: Relatie

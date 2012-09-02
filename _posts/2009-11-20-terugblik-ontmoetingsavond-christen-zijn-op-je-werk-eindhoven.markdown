@@ -23,7 +23,7 @@ Het is 18 november, 18.00 uur. De eerste deelnemers druppelen binnen in het bijg
 
 Om 18.15 uur is iedereen voorzien van koffie, thee en een badge en open ik de maaltijd. Ik heb het voorrecht om de avond aan elkaar te praten. Onder het genot van heerlijke broodjes maakt iedereen gezellig kennis met elkaar. “Waar kom je vandaan?” “Eindhoven.” “Veldhoven.” “Nijmegen.” “Maastricht.” “Wow!”
 
-Als de broodjes op zijn houdt Aart van der Maarl ([voorganger CGK Eindhoven](http://www.cgkehv.nl/)) een inleiding over het thema “Hoe kan de kerk helpen om christen te zijn op het werk?”. [Download hier de PDF-versie van de lezing.](http://www.geloofinjewerk.nl/files/2009/11/Lezing-Aart-vd-Maarl.pdf)
+Als de broodjes op zijn houdt Aart van der Maarl ([voorganger CGK Eindhoven](http://www.cgkehv.nl/)) een inleiding over het thema “Hoe kan de kerk helpen om christen te zijn op het werk?”. [Download hier de PDF-versie van de lezing.](/files/2009/11/Lezing-Aart-vd-Maarl.pdf)
 
 
 
@@ -53,7 +53,7 @@ We sluiten af door in groepjes voor elkaar te bidden. Mensen vragen wanneer er w
 ### Reacties en foto's
 
 
-Ben jij ook geweest? Wat vond je er van? Welke eye-openers heb je gehad? Vertel jouw ervaring in de [reacties](http://www.geloofinjewerk.nl/2009/11/20/terugblik-ontmoetingsavond-christen-zijn-op-je-werk-eindhoven/#comments)!
+Ben jij ook geweest? Wat vond je er van? Welke eye-openers heb je gehad? Vertel jouw ervaring in de [reacties](/2009/11/20/terugblik-ontmoetingsavond-christen-zijn-op-je-werk-eindhoven/#comments)!
 
 Alle foto's zijn op [mijn Flickr pagina](http://www.flickr.com/photos/leonderijke/sets/72157622836320194/detail/) te vinden:
 [![Maaltijd](http://farm3.static.flickr.com/2651/4117069817_f1822e7e6a_t.jpg)](http://www.flickr.com/photos/leonderijke/4117069817/) [![Maaltijd](http://farm3.static.flickr.com/2686/4117849692_d96683c746_t.jpg)](http://www.flickr.com/photos/leonderijke/4117849692/) [![Maaltijd](http://farm3.static.flickr.com/2515/4117840350_f8e6b12b57_t.jpg)](http://www.flickr.com/photos/leonderijke/4117840350/) [![Maaltijd](http://farm3.static.flickr.com/2804/4117839944_d5163c6895_t.jpg)](http://www.flickr.com/photos/leonderijke/4117839944/) [![Maaltijd](http://farm3.static.flickr.com/2735/4117848314_029bb2aa85_t.jpg)](http://www.flickr.com/photos/leonderijke/4117848314/) [![Inleiding 'Hoe kan de kerk helpen om christen te zijn op het werk?'](http://farm3.static.flickr.com/2570/4117851354_6ea5dff057_t.jpg)](http://www.flickr.com/photos/leonderijke/4117851354/) [![Workshop 'Christen-zijn op je werk: hoe dan?'](http://farm3.static.flickr.com/2759/4117085193_79619d92b6_t.jpg)](http://www.flickr.com/photos/leonderijke/4117085193/) [![Workshop 'Vredestichter op het werk'](http://farm3.static.flickr.com/2590/4117852820_b903e6872d_t.jpg)](http://www.flickr.com/photos/leonderijke/4117852820/) [![Workshop 'Vredestichter op het werk'](http://farm3.static.flickr.com/2678/4117868676_c1188e549c_t.jpg)](http://www.flickr.com/photos/leonderijke/4117868676/) [![Workshop 'Het goede nieuws op het werk'](http://farm3.static.flickr.com/2536/4117088485_58594823c7_t.jpg)](http://www.flickr.com/photos/leonderijke/4117088485/) [![Workshop 'Het goede nieuws op het werk'](http://farm3.static.flickr.com/2718/4117873010_79eb1767b3_t.jpg)](http://www.flickr.com/photos/leonderijke/4117873010/)

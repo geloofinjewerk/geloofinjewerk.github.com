@@ -4,7 +4,7 @@ date: 2010-05-27 08:00:34
 excerpt: 'Op onze werkplek hebben we allemaal wel eens te maken met mensen die een
   ander geloof hebben: moslims, hindoes, boeddhisten, natuurgodsdiensten etc. Hoe
   ga je nu met deze mensen en hun geloof om?'
-image: http://www.geloofinjewerk.nl/images/2010/05/moslimsapple.jpg
+image: /images/2010/05/moslimsapple.jpg
 layout: post
 slug: 5-tips-voor-het-omgaan-met-andere-religies
 title: 5 tips voor het omgaan met andere religies

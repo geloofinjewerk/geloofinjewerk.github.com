@@ -4,7 +4,7 @@ date: 2010-06-10 08:00:50
 excerpt: De afgelopen weken heb ik een lezersonderzoek uitgevoerd om samen met onze
   lezers te bekijken hoe onze reis tot nu toe bevalt en waar verbeteringen mogelijk
   zijn. Hier vind je de ontzettend interessante uitkomsten daarvan!
-image: http://www.geloofinjewerk.nl/images/2010/06/lezersonderzoek-vragen.png
+image: /images/2010/06/lezersonderzoek-vragen.png
 layout: post
 slug: uitkomsten-van-het-grote-lezersonderzoek
 title: Uitkomsten van het Grote Lezersonderzoek
@@ -67,19 +67,19 @@ Het schrijven van één artikel per week in plaats van twee artikelen per week z
 
 
 Een vraag in het onderzoek waar ik hoge verwachtingen van had was de vraag over welke onderwerpen je meer artikelen zou willen zien. De uitkomst daarvan heb ik in een grafiek gezet:
-![Afbeelding van een grafiek met onderwerpen als uitkomst van het lezersonderzoek](http://www.geloofinjewerk.nl/images/2010/06/lezersonderzoek-onderwerpen.png)
+![Afbeelding van een grafiek met onderwerpen als uitkomst van het lezersonderzoek](/images/2010/06/lezersonderzoek-onderwerpen.png)
 
 Zoals je ziet is er veel behoefte aan artikelen over passie/motivatie, getuigen/evangeliseren, gezag/autoriteit en relaties met collega’s.
 
-Je zult hier de komende tijd zeker artikelen over zien verschijnen! Afgelopen maandag is reeds een [artikel over getuigen/evangeliseren](http://www.geloofinjewerk.nl/2010/06/07/12-manieren-om-te-getuigen-zonder-je-baan-te-verliezen/) verschenen (zonder dat ik de uitkomsten van het lezersonderzoek had gezien!). Volgende week verschijnt een artikel over omgaan met gezag en ik heb ook een aantal artikelen over relaties (met collega’s) in de planning staan.
+Je zult hier de komende tijd zeker artikelen over zien verschijnen! Afgelopen maandag is reeds een [artikel over getuigen/evangeliseren](/2010/06/07/12-manieren-om-te-getuigen-zonder-je-baan-te-verliezen/) verschenen (zonder dat ik de uitkomsten van het lezersonderzoek had gezien!). Volgende week verschijnt een artikel over omgaan met gezag en ik heb ook een aantal artikelen over relaties (met collega’s) in de planning staan.
 
-Als je nog niet geabonneerd bent op de artikelen: [hier kun je je gratis aanmelden](http://www.geloofinjewerk.nl/abonneren/). Dan mis je niks!
+Als je nog niet geabonneerd bent op de artikelen: [hier kun je je gratis aanmelden](/abonneren/). Dan mis je niks!
 
 
 ## De Geloof in je werk Nieuwsbrief
 
 
-De lezers die ook geabonneerd zijn op de [Geloof in je werk Nieuwsbrief](http://www.geloofinjewerk.nl/nieuwsbrief/) hebben tevens een aantal vragen beantwoord over de nieuwsbrief. Alle lezers die meededen aan dit onderdeel van het lezersonderzoek hadden een positieve algemene indruk van de Geloof in je werk Nieuwsbrief.
+De lezers die ook geabonneerd zijn op de [Geloof in je werk Nieuwsbrief](/nieuwsbrief/) hebben tevens een aantal vragen beantwoord over de nieuwsbrief. Alle lezers die meededen aan dit onderdeel van het lezersonderzoek hadden een positieve algemene indruk van de Geloof in je werk Nieuwsbrief.
 
 Alle onderdelen van de Nieuwsbrief werden als ‘interessant’ bestempeld, waarbij er een paar lezers zeiden dat de Resources ‘niet interessant’ waren. Ik ben nog aan het nadenken of ik hier veranderingen in ga doorvoeren. Ik hou je op de hoogte via de nieuwsbrief!
 
@@ -95,7 +95,7 @@ _De doorsnee lezer van Geloof in je werk is een christen van het mannelijk gesla
 ## De winnaar!
 
 
-Omdat er geen notaris aanwezig was bij de trekking van de winnaar van het boek [Yes! ‘t is weer maandag!](http://www.geloofinjewerk.nl/2009/11/16/boek-review-yes-t-is-weer-maandag/) laat ik hier zien hoe ik de winnaar heb bepaald. Alle ingevulde mailadressen heb ik onder elkaar in een Excel-sheet gezet en vervolgens heb ik door middel van een echt willekeurig getal van www.random.org de winnende rij bepaald.
+Omdat er geen notaris aanwezig was bij de trekking van de winnaar van het boek [Yes! ‘t is weer maandag!](/2009/11/16/boek-review-yes-t-is-weer-maandag/) laat ik hier zien hoe ik de winnaar heb bepaald. Alle ingevulde mailadressen heb ik onder elkaar in een Excel-sheet gezet en vervolgens heb ik door middel van een echt willekeurig getal van www.random.org de winnende rij bepaald.
 
 Het boek Yes! ‘t is weer maandag is gewonnen door: _Wieger Blokland_!
 

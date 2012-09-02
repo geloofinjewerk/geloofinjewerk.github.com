@@ -3,7 +3,7 @@ comments: true
 date: 2011-01-26 10:00:42
 excerpt: Jezus trok rond en verkondigde het Koninkrijk van God. Hoe zou Hij naar de
   mensen om hem heen hebben gekeken?
-image: http://www.geloofinjewerk.nl/images/2011/01/kroon-serie-koninkrijk-deel-1.jpg
+image: /images/2011/01/kroon-serie-koninkrijk-deel-1.jpg
 layout: post
 slug: stelletje-dooie-honden
 title: Een stelletje dooie honden
@@ -16,11 +16,11 @@ tags:
 - Mefiboset
 ---
 
-_Dit artikel is het eerste in een serie over het [Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/)._
+_Dit artikel is het eerste in een serie over het [Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/)._
 
-Recent had ik met iemand een gesprek over [christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/). We hadden het over onze collega’s en [liefhebben zonder verborgen agenda](http://www.geloofinjewerk.nl/2010/04/01/liefhebben-zonder-verborgen-agenda/). Diegene riep uit: “Ja maar, ze moeten toch bekeerd worden?”
+Recent had ik met iemand een gesprek over [christen zijn op je werk](/christen-zijn-op-je-werk/). We hadden het over onze collega’s en [liefhebben zonder verborgen agenda](/2010/04/01/liefhebben-zonder-verborgen-agenda/). Diegene riep uit: “Ja maar, ze moeten toch bekeerd worden?”
 
-Naar aanleiding van onze serie over het [Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/) dacht ik aan het gesprek terug. Hoe zien wij onze collega’s? Als bekeringsobjecten, targets, doelen? Eerlijk gezegd huiver ik er een beetje van om de mensen om mij heen als (potentiële) bekeringsobjecten te zien, dan is de menselijke waardigheid er snel vanaf.
+Naar aanleiding van onze serie over het [Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/) dacht ik aan het gesprek terug. Hoe zien wij onze collega’s? Als bekeringsobjecten, targets, doelen? Eerlijk gezegd huiver ik er een beetje van om de mensen om mij heen als (potentiële) bekeringsobjecten te zien, dan is de menselijke waardigheid er snel vanaf.
 
 Jezus trok rond en verkondigde het Koninkrijk van God. Hoe zou Hij naar de mensen om hem heen hebben gekeken? Hij riep: “Kom tot inkeer, want het koninkrijk van de hemel is nabij!” ([Mt. 4:17](http://www.biblija.net/biblija.cgi?m=mt+4:17&id42=0&id18=1&pos=0&l=nl&set=10)). Zou Hij hen ook als bekeringsobjecten zien?
 
@@ -64,4 +64,4 @@ Wat is het goede nieuws dat wij zo graag willen overbrengen? In het koninkrijk v
 
 **Vraag:** Hoe zie jij je collega’s?
 
-Lees ook deel twee in de serie over het [Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/): [Trekken of duwen?](http://www.geloofinjewerk.nl/2011/02/02/trekken-of-duwen/)
+Lees ook deel twee in de serie over het [Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/): [Trekken of duwen?](/2011/02/02/trekken-of-duwen/)

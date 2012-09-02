@@ -4,7 +4,7 @@ date: 2009-10-12 08:00:22
 excerpt: Denk jij ook dat werk ontstaan is als gevolg van de zondeval? Werken is onderdeel
   van Gods bedoeling met de mensheid, werken is Gods wil. Hij heeft het al in de schepping
   ingebakken.
-image: http://www.geloofinjewerk.nl/images/2009/10/Appel.jpg
+image: /images/2009/10/Appel.jpg
 layout: post
 slug: de-oorsprong-van-werk
 title: 'De oorsprong van werk: Is werk vòòr of ná de zondeval ontstaan?'

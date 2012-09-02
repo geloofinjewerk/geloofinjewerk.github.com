@@ -3,7 +3,7 @@ comments: true
 date: 2009-11-30 08:00:02
 excerpt: Dus jij wilt CEO worden? Ik heb 11 simpele tips voor je waarmee je binnen
   no-time je plek in de bestuurskamer kunt veroveren!
-image: http://www.geloofinjewerk.nl/images/2009/11/CEO.jpg
+image: /images/2009/11/CEO.jpg
 layout: post
 slug: 11-snelle-manieren-om-vandaag-ceo-te-worden
 title: 11 snelle manieren om CEO te worden
@@ -44,7 +44,7 @@ Hier gaan we:
 	
   6. Los een conflict op door je eigen fout te **erkennen** (ongeacht wat de ander heeft gedaan).
 
-![Succes](http://www.geloofinjewerk.nl/images/2009/11/Succes.jpg)	
+![Succes](/images/2009/11/Succes.jpg)	
   7. Geef iedereen die je tegenkomt een welgemeend **compliment**.
 
 	
@@ -60,7 +60,7 @@ Hier gaan we:
   11. Geef ieder teamlid een **sponsorkindje** (bijv. [Compassion](http://www.compassion.nl) of [World Vision](http://www.worldvision.nl)) en leer ze hoe ze een brief naar het kindje kunnen schrijven. Breng hierover geen persbericht uit.
 
 
-![CEO-card](http://www.geloofinjewerk.nl/images/2009/12/CEO-card.jpg)Je kunt niet al deze punten vandaag uitvoeren. Maar probeer er eens één of twee. Je zal zien hoe snel je groeit in het bemoedigen van mensen en hoe snel je ze leert om anderen te bemoedigen.
+![CEO-card](/images/2009/12/CEO-card.jpg)Je kunt niet al deze punten vandaag uitvoeren. Maar probeer er eens één of twee. Je zal zien hoe snel je groeit in het bemoedigen van mensen en hoe snel je ze leert om anderen te bemoedigen.
 
 Je zal zien hoe snel je gezien wordt als de Chief _**Encouragement**_ Officer.
 

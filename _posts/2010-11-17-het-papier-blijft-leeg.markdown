@@ -2,7 +2,7 @@
 comments: true
 date: 2010-11-17 10:00:21
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/11/leegpapier.jpg
+image: /images/2010/11/leegpapier.jpg
 layout: post
 slug: het-papier-blijft-leeg
 title: Het papier blijft leeg

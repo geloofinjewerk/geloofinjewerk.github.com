@@ -4,7 +4,7 @@ date: 2010-04-12 08:00:13
 excerpt: Uit een recent onderzoek is gebleken dat 80% van de financiële werknemers
   weleens te maken krijgt met integriteitsvraagstukken. Hoe ga jij met integriteit
   om?
-image: http://www.geloofinjewerk.nl/images/2010/04/omzetliegen.jpg
+image: /images/2010/04/omzetliegen.jpg
 layout: post
 slug: integriteit-hoe-ga-jij-ermee-om
 title: 'Integriteit: Hoe ga jij ermee om?'
@@ -70,4 +70,4 @@ Zet jouw verhaal hieronder in de reacties en wie weet gebruik ik jouw reactie in
 
 Of vind je dit ook lastig en heb je een specifieke vraag? Stel je vraag hieronder in de reacties en ik probeer hem in het artikel te beantwoorden.
 
-(Lezers die de artikelen per e-mail toegestuurd krijgen: [klik hier](http://www.geloofinjewerk.nl/2010/04/12/integriteit-hoe-ga-jij-ermee-om/) om naar de website te gaan om een reactie te plaatsen)
+(Lezers die de artikelen per e-mail toegestuurd krijgen: [klik hier](/2010/04/12/integriteit-hoe-ga-jij-ermee-om/) om naar de website te gaan om een reactie te plaatsen)

@@ -2,7 +2,7 @@
 comments: true
 date: 2010-04-22 08:00:00
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/04/grieksevlag.jpg
+image: /images/2010/04/grieksevlag.jpg
 layout: post
 slug: wat-we-kunnen-leren-van-griekenland
 title: Wat we kunnen leren van Griekenland
@@ -39,7 +39,7 @@ Ga maar na: de Griekse economie is in nood. De Europese lidstaten zien deze _noo
 
 _De hulpverleners kunnen pas helpen in een nood als de hulpbehoevende een behoefte heeft!_
 
-![Afbeelding van een stapel 50 eurobiljetten](http://www.geloofinjewerk.nl/images/2010/04/geld.jpg)
+![Afbeelding van een stapel 50 eurobiljetten](/images/2010/04/geld.jpg)
 
 
 
@@ -72,7 +72,7 @@ Toen Jezus 72 discipelen op pad stuurde gaf Hij hun een opdracht mee:
 
 Bij de vredelievende mensen mochten ze blijven en het koninkrijk verkondigen. Deze mensen stonden daarvoor _open_, ze hadden een behoefte.
 
-![Afbeelding van het Internationaal Monetair Fonds](http://www.geloofinjewerk.nl/images/2010/04/imf.jpg)
+![Afbeelding van het Internationaal Monetair Fonds](/images/2010/04/imf.jpg)
 
 
 

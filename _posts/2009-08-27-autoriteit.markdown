@@ -3,7 +3,7 @@ comments: true
 date: 2009-08-27 08:00:20
 excerpt: Autoriteit gaat over mogelijkheden, over wat je mag doen, over de ruimte
   die je hebt gekregen.
-image: http://www.geloofinjewerk.nl/images/2009/09/Autoriteit.jpg
+image: /images/2009/09/Autoriteit.jpg
 layout: post
 slug: autoriteit
 title: Autoriteit

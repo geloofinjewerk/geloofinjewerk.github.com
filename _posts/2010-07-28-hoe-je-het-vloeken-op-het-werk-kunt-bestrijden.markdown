@@ -3,7 +3,7 @@ comments: true
 date: 2010-07-28 10:00:14
 excerpt: Vloeken op het werk. Het lijkt zo'n groot probleem, maar is het dat ook?
   Moeten we echt het vloeken op het werk bestrijden?
-image: http://www.geloofinjewerk.nl/images/2010/06/vloeken-verboden.jpg
+image: /images/2010/06/vloeken-verboden.jpg
 layout: post
 slug: hoe-je-het-vloeken-op-het-werk-kunt-bestrijden
 title: Hoe je het vloeken op het werk kunt bestrijden
@@ -17,7 +17,7 @@ tags:
 - zonde
 ---
 
-De meeste christenen die ik spreek denken bij ‘[christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/)’ aan twee dingen: evangeliseren en vloeken, of beter gezegd: _vloeken op het werk bestrijden_.
+De meeste christenen die ik spreek denken bij ‘[christen zijn op je werk](/christen-zijn-op-je-werk/)’ aan twee dingen: evangeliseren en vloeken, of beter gezegd: _vloeken op het werk bestrijden_.
 
 Hoewel we weten dat christen zijn op je werk veel meer is dan dat, wil ik vandaag toch dat vloeken op het werk eens onder de loep nemen. Want blijkbaar vormt dat toch een hekel punt voor veel mensen.
 
@@ -40,7 +40,7 @@ Weet je, ik begrijp nooit zo goed waarom we er met z’n allen zo’n groot prob
 
 Ga dit eens na bij jezelf. De volgende keer als je een vloek hoort, krimpt je hart dan echt ineen van pijn? Voelt het werkelijk alsof iemand met een zweep op je rug slaat?
 
-![Afbeelding van een niet vloeken bord](http://www.geloofinjewerk.nl/images/2010/06/vloeken-bord.jpg)
+![Afbeelding van een niet vloeken bord](/images/2010/06/vloeken-bord.jpg)
 
 
 
@@ -66,7 +66,7 @@ Echte gedragsverandering komt van binnenuit. Wat je doet komt voort uit wie je b
 
 Gedrag kan ook gekopieerd worden van een voorbeeld of rolmodel. De identiteit hoeft dan nog niet per se veranderd te zijn, maar het gedrag wordt al wel aangepast. Hierbij wordt de gedragsverandering niet van buitenaf opgelegd maar komt hij voort uit de (onbewuste) wil, van binnenuit dus.
 
-![Afbeelding van de Tien Geboden](http://www.geloofinjewerk.nl/images/2010/06/tien-geboden.jpg)
+![Afbeelding van de Tien Geboden](/images/2010/06/tien-geboden.jpg)
 
 
 ## Waarom is vloeken het ergst?

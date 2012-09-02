@@ -3,7 +3,7 @@ comments: true
 date: 2010-01-07 08:00:45
 excerpt: De oudste zoon uit het verhaal van de verloren zoon ziet zichzelf als slaaf
   terwijl hij zoon is. Herken jij ook de 5 symptomen van dit Oudste Zoon Syndroom?
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: 5-symptomen-oudste-zoon-syndroom
 title: Herken jij de 5 symptomen van het Oudste Zoon Syndroom?
@@ -52,7 +52,7 @@ Je kunt het Oudste Zoon Syndroom herkennen aan de volgende symptomen:
 
 Kortom, je ziet jezelf als slaaf, terwijl je een zoon bent.
 
-![Oudste Zoon Syndroom](http://www.geloofinjewerk.nl/images/2010/01/Oudste-Zoon-Syndroom.png)
+![Oudste Zoon Syndroom](/images/2010/01/Oudste-Zoon-Syndroom.png)
 
 
 

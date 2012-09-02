@@ -4,7 +4,7 @@ date: 2010-03-08 08:00:15
 excerpt: Pasen is de christelijke feestdag die meer mensen associëren met de paashaas
   dan met Jezus Christus. In plaats van je standaard verhaal af te draaien zijn er
   ook creatieve manieren om te getuigen met Pasen.
-image: http://www.geloofinjewerk.nl/images/2010/02/paaseieren.jpg
+image: /images/2010/02/paaseieren.jpg
 layout: post
 slug: hoe-ga-jij-getuigen-met-pasen
 title: Hoe ga jij getuigen met Pasen?

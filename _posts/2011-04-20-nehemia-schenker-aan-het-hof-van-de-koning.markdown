@@ -3,7 +3,7 @@ comments: true
 date: 2011-04-20 10:00:05
 excerpt: Nehemia is schenker van de koning. In die functie ontwikkelt hij hele belangrijke
   competenties die hij later gebruikt bij het leiden van het herstel van Jeruzalem.
-image: http://www.geloofinjewerk.nl/images/2011/04/wijnkelder.jpg
+image: /images/2011/04/wijnkelder.jpg
 layout: post
 slug: nehemia-schenker-aan-het-hof-van-de-koning
 title: 'Nehemia: schenker aan het hof van de koning'

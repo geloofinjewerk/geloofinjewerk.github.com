@@ -3,7 +3,7 @@ comments: true
 date: 2010-03-04 08:00:15
 excerpt: De duivel is onze vijand, maar jij kunt ook een vijand van de duivel zijn.
   Hiervoor is het belangrijk om je autoriteit en identiteit in Jezus Christus te weten.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: hoe-jij-een-vijand-van-de-duivel-kunt-zijn
 title: Hoe jij een vijand van de duivel kunt zijn
@@ -49,7 +49,7 @@ De geestelijke wapenrusting uit [Efeziërs 6](http://www.biblija.net/biblija.cgi
 
 Valt de duivel jou wel eens aan op je werk?
 
-[caption id="attachment_1145" align="aligncenter" width="500" caption="Bankier verkleed als duivel"]![Afbeelding van een bankier verkleed als duivel](http://www.geloofinjewerk.nl/images/2010/03/duivelbankier.jpg)[/caption]
+[caption id="attachment_1145" align="aligncenter" width="500" caption="Bankier verkleed als duivel"]![Afbeelding van een bankier verkleed als duivel](/images/2010/03/duivelbankier.jpg)[/caption]
 
 
 

@@ -22,7 +22,7 @@ tags:
 In onderstaande video vind je mijn review van Moderne Koningen, een boek van John S. Garfield en Harold R. Eberle.
 
 
-(Klik [hier](http://www.geloofinjewerk.nl/2010/02/22/boekreview-moderne-koningen/) als je de video niet kunt zien of [bekijk de video op YouTube](http://www.youtube.com/watch?v=ogdjuLz1Chk).)
+(Klik [hier](/2010/02/22/boekreview-moderne-koningen/) als je de video niet kunt zien of [bekijk de video op YouTube](http://www.youtube.com/watch?v=ogdjuLz1Chk).)
 
 Moderne Koningen gaat over 98% van de christenen die geroepen zijn om buiten de muren van de kerk het koninkrijk van God uit te breiden. Echt een aanrader!
 

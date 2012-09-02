@@ -3,7 +3,7 @@ comments: true
 date: 2009-07-23 08:00:12
 excerpt: In 1795 werden kerk en staat gescheiden. Hebben wij als christenen in onze
   tijd een scheiding tussen kerk en werk teweeggebracht?
-image: http://www.geloofinjewerk.nl/images/2009/09/Vechten.jpg
+image: /images/2009/09/Vechten.jpg
 layout: post
 slug: de-scheiding-van-kerk-en-werk
 title: De scheiding van kerk en werk

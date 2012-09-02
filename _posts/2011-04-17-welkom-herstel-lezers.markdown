@@ -2,7 +2,7 @@
 comments: true
 date: 2011-04-17 15:26:28
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2011/04/H150cover-klein.jpg
+image: /images/2011/04/H150cover-klein.jpg
 layout: post
 slug: welkom-herstel-lezers
 title: Welkom, Herstel lezers!
@@ -24,25 +24,25 @@ Aan de rechterkant vind je je toegangspoort tot diverse categorieën aan artikel
 
 
 	
-  * [Serie De Spiegel (identiteit in Christus)](http://www.geloofinjewerk.nl/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/)
+  * [Serie De Spiegel (identiteit in Christus)](/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/)
 
 	
-  * [Serie Integriteit](http://www.geloofinjewerk.nl/2010/04/19/3-niveaus-van-integriteit/)
+  * [Serie Integriteit](/2010/04/19/3-niveaus-van-integriteit/)
 
 	
-  * [Serie Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/)
+  * [Serie Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/)
 
 
-Wil je eerst meer weten over [wie ik ben](http://www.geloofinjewerk.nl/over-mij/), [wat ik doe](http://www.geloofinjewerk.nl/diensten/) of wil je [contact met mij opnemen](http://www.geloofinjewerk.nl/contact/)? Dat kan natuurlijk ook.
+Wil je eerst meer weten over [wie ik ben](/over-mij/), [wat ik doe](/diensten/) of wil je [contact met mij opnemen](/contact/)? Dat kan natuurlijk ook.
 En als je denkt "Hier wil ik meer van!", dan zijn daar twee mogelijkheden voor:
 
 
 
 	
-  1. [Je abonneert je op de artikelen](http://www.geloofinjewerk.nl/abonneren/).
+  1. [Je abonneert je op de artikelen](/abonneren/).
 
 	
-  2. [Je abonneert je op de Geloof in je werk Nieuwsbrief](http://www.geloofinjewerk.nl/nieuwsbrief/) (en ontvangt gratis een hoofdstuk van mijn [e-book De Spiegel](http://www.geloofinjewerk.nl/despiegel/)).
+  2. [Je abonneert je op de Geloof in je werk Nieuwsbrief](/nieuwsbrief/) (en ontvangt gratis een hoofdstuk van mijn [e-book De Spiegel](/despiegel/)).
 
 
 

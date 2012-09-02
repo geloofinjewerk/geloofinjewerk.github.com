@@ -3,7 +3,7 @@ comments: true
 date: 2010-04-08 08:00:16
 excerpt: Het evangelie van Jezus Christus is relevant voor heel ons leven, voor alle
   gebieden. Dit zijn we vergeten doordat we geloof beperken tot ons privéleven.
-image: http://www.geloofinjewerk.nl/images/2010/04/post-it.jpg
+image: /images/2010/04/post-it.jpg
 layout: post
 slug: wat-iedereen-vergeet-over-discipelschap
 title: Wat iedereen vergeet over discipelschap

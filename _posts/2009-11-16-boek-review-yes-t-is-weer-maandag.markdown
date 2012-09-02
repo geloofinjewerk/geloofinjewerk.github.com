@@ -19,10 +19,10 @@ tags:
 - video
 ---
 
-[Mark Greene](http://www.licc.org.uk/about-licc/staff/mark-greene) heeft een heel goed boek geschreven, een uitstekende basis voor christen zijn op je werk: [Yes! ‘t is weer maandag](http://www.geloofinjewerk.nl/yes-maandag/). Bekijk mijn video review:
+[Mark Greene](http://www.licc.org.uk/about-licc/staff/mark-greene) heeft een heel goed boek geschreven, een uitstekende basis voor christen zijn op je werk: [Yes! ‘t is weer maandag](/yes-maandag/). Bekijk mijn video review:
 
 
-(Klik [hier](http://www.geloofinjewerk.nl/2009/11/16/boek-review-yes-t-is-weer-maandag/) als je de video niet kunt zien of [bekijk de video op YouTube](http://www.youtube.com/watch?v=WkFkGuXhTAY).)
+(Klik [hier](/2009/11/16/boek-review-yes-t-is-weer-maandag/) als je de video niet kunt zien of [bekijk de video op YouTube](http://www.youtube.com/watch?v=WkFkGuXhTAY).)
 
 Dit boek zal je:
 
@@ -32,7 +32,7 @@ Dit boek zal je:
   * helpen om Gods visie op werk te zien en te leven
 
 	
-  * laten zien hoe eenvoudig [christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/) is
+  * laten zien hoe eenvoudig [christen zijn op je werk](/christen-zijn-op-je-werk/) is
 
 	
   * tips geven die je direct in de praktijk kunt brengen
@@ -44,4 +44,4 @@ Dit boek zal je:
   * verschillende lachaanvallen opleveren, als je tenminste van Engelse humor houdt
 
 
-Ondanks de paar kleine negatieve punten die ik in de video aangaf ben ik zeker te spreken over dit boek. Een aanrader: [Yes! ‘t is weer maandag](http://www.geloofinjewerk.nl/yes-maandag/) van Mark Greene.
+Ondanks de paar kleine negatieve punten die ik in de video aangaf ben ik zeker te spreken over dit boek. Een aanrader: [Yes! ‘t is weer maandag](/yes-maandag/) van Mark Greene.

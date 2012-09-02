@@ -3,7 +3,7 @@ comments: true
 date: 2009-11-23 08:00:23
 excerpt: In dit gastartikel zet Brad Harmon van The Christian Entrepreneur vraagtekens
   bij de rol van religie op de werkvloer.
-image: http://www.geloofinjewerk.nl/images/2009/11/money-cross.jpg
+image: /images/2009/11/money-cross.jpg
 layout: post
 slug: mogen-christenen-hun-religie-meenemen-naar-het-werk
 title: Mogen christenen hun religie meenemen naar het werk?
@@ -49,7 +49,7 @@ Zij zouden nederig, dankbaar, vriendelijk, barmhartig en vergevingsgezind moeten
 ## Vanuit het perspectief van de zakenwereld
 
 
-![Werknemers](http://www.geloofinjewerk.nl/images/2009/11/5HappyWorkers.jpg)Ja, maar waar zijn deze mensen dan? Dit zijn niet de christenen die we aangenomen hebben. Eigenlijk zouden we willen dat onze christelijke arbeiders meer waren zoals ... nou ja ... christenen.
+![Werknemers](/images/2009/11/5HappyWorkers.jpg)Ja, maar waar zijn deze mensen dan? Dit zijn niet de christenen die we aangenomen hebben. Eigenlijk zouden we willen dat onze christelijke arbeiders meer waren zoals ... nou ja ... christenen.
 
 In plaats daarvan zijn de meesten maar al te bereid om hun christelijk geloof bij de voordeur achter te laten. We weten bijna zeker dat de meesten van hen het gewoon opzetten als ze op zondag de kerk binnengaan en het terug ophangen als ze weer naar buiten gaan, tot ze het de volgende zondag weer nodig hebben.
 
@@ -69,7 +69,7 @@ Het moet Zijn hart breken. Christus zei dat we Zijn volgelingen zouden herkennen
 
 Ze was duidelijk schuldig, en het was duidelijk bedoeld om Hem in de val te lokken, maar Hij heeft haar niet veroordeeld. Hij bleef alleen maar in het zand tekenen totdat de mannen weggingen, één voor één, van de oudste tot de jongste. Ooit afgevraagd wat Hij schreef?
 
-![Schrijven in het zand](http://www.geloofinjewerk.nl/images/2009/11/3061672860_b52cf853e4-300x225.jpg)Ik denk dat Hij hun namen in het zand schreef, in dezelfde volgorde als ze de vrouw beschuldigd hadden en dat toen Hij zei: "Wie van jullie zonder zonde is, laat die als eerste een steen naar haar werpen," Hij hun zonden naast hun naam begon te schrijven. Wie weet of dat echt gebeurd is? Het zou in Zijn patroon passen.
+![Schrijven in het zand](/images/2009/11/3061672860_b52cf853e4-300x225.jpg)Ik denk dat Hij hun namen in het zand schreef, in dezelfde volgorde als ze de vrouw beschuldigd hadden en dat toen Hij zei: "Wie van jullie zonder zonde is, laat die als eerste een steen naar haar werpen," Hij hun zonden naast hun naam begon te schrijven. Wie weet of dat echt gebeurd is? Het zou in Zijn patroon passen.
 
 Christus sprak zelden op een harde manier, behalve tegen de religieuze leiders van toen. Ik kan me niet één geval herinneren, behalve in de vorm van een gelijkenis.
 

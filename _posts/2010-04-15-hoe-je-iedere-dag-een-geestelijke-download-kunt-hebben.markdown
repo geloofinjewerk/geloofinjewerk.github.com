@@ -5,7 +5,7 @@ excerpt: Stille tijd houden betekent dat je iedere dag (of bijna iedere dag maar
   ieder geval regelmatig) tijd neemt om alleen met God door te brengen. Jezus bracht
   regelmatig alleen tijd door met de Vader. Hij deed dit om contact met de Vader te
   onderhouden en te weten te komen wat op Zijn hart was.
-image: http://www.geloofinjewerk.nl/images/2010/04/stilte.jpg
+image: /images/2010/04/stilte.jpg
 layout: post
 slug: hoe-je-iedere-dag-een-geestelijke-download-kunt-hebben
 title: Hoe je iedere dag een geestelijke download kunt hebben
@@ -78,7 +78,7 @@ Zo kun jij ook visie, wijsheid en opdrachten ontvangen door eenvoudigweg een int
 
 
 
-![Afbeelding van een stil meer en een berg](http://www.geloofinjewerk.nl/images/2010/04/stilmeer.jpg)
+![Afbeelding van een stil meer en een berg](/images/2010/04/stilmeer.jpg)
 
 
 

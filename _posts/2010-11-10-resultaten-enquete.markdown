@@ -4,7 +4,7 @@ date: 2010-11-10 10:00:52
 excerpt: In een aantal kerken is voorafgaand aan de Landelijke Themazondag 'Christen-zijn
   op je werk' een enquête gehouden over hoe mensen tegen hun christen-zijn op het
   werk aankijken. Ik vond hierin vier opvallende resultaten.
-image: http://www.geloofinjewerk.nl/images/2010/09/logo-werkgroep.png
+image: /images/2010/09/logo-werkgroep.png
 layout: post
 slug: resultaten-enquete
 title: Opvallende resultaten enquêtes christen zijn op je werk
@@ -62,7 +62,7 @@ Ik ben van mening dat het aanspreken op vloekgedrag onbedoeld een boodschap over
 
 
 
-Meer over het aanspreken op vloekgedrag vind je in twee eerdere artikelen: [Hoe je het vloeken op het werk kunt bestrijden](http://www.geloofinjewerk.nl/2010/07/28/hoe-je-het-vloeken-op-het-werk-kunt-bestrijden/) en [Aanvaring door vloeken op het werk](http://www.geloofinjewerk.nl/2010/08/18/aanvaring-door-vloeken-op-het-werk/).
+Meer over het aanspreken op vloekgedrag vind je in twee eerdere artikelen: [Hoe je het vloeken op het werk kunt bestrijden](/2010/07/28/hoe-je-het-vloeken-op-het-werk-kunt-bestrijden/) en [Aanvaring door vloeken op het werk](/2010/08/18/aanvaring-door-vloeken-op-het-werk/).
 
 
 
@@ -73,7 +73,7 @@ In de enquêteresultaten werden legio voorbeelden gegeven van kwesties waarbij d
 
 Ik moest denken aan een lied van Casting Crowns: Slow fade. Daarin schrijft Mark Hall dat integriteit kan vervagen maar dat dit niet zomaar binnen een dag gebeurt. Het begint met kleine keuzes en dit worden steeds grotere keuzes. Grijs gebied wordt zwart gebied. Kleine keuzes krijgen grote gevolgen. Bekijk de videoclip van Slow fade [hier](http://vimeo.com/7474108).
 
-Integriteit vindt op drie niveaus plaats: op persoonlijk niveau, op bedrijfsniveau en op omgevingsniveau. Meer daarover in [3 Niveaus van integriteit](http://www.geloofinjewerk.nl/2010/04/19/3-niveaus-van-integriteit/) en in [de categorie Integriteit](http://www.geloofinjewerk.nl/categorie/integriteit/).
+Integriteit vindt op drie niveaus plaats: op persoonlijk niveau, op bedrijfsniveau en op omgevingsniveau. Meer daarover in [3 Niveaus van integriteit](/2010/04/19/3-niveaus-van-integriteit/) en in [de categorie Integriteit](/categorie/integriteit/).
 
 
 
@@ -88,9 +88,9 @@ Als het gaat om getuigen dan valt me op dat vaak het woord “moeten” gebruikt
 
 
 
-Deze opdracht zien we vaak als onze plicht, alsof dat het enige is waarvoor we (nog) leven hier op aarde. Maar de Grote Opdracht valt binnen het Grote Gebod: God liefhebben met alles wat in je is. Zie ook het artikel [Liefhebben zonder verborgen agenda](http://www.geloofinjewerk.nl/2010/04/01/liefhebben-zonder-verborgen-agenda/).
+Deze opdracht zien we vaak als onze plicht, alsof dat het enige is waarvoor we (nog) leven hier op aarde. Maar de Grote Opdracht valt binnen het Grote Gebod: God liefhebben met alles wat in je is. Zie ook het artikel [Liefhebben zonder verborgen agenda](/2010/04/01/liefhebben-zonder-verborgen-agenda/).
 
-![Niet evangeliseren!](http://www.geloofinjewerk.nl/images/2010/11/niet-evangeliseren.jpg)
+![Niet evangeliseren!](/images/2010/11/niet-evangeliseren.jpg)
 
 
 
@@ -99,7 +99,7 @@ Deze opdracht zien we vaak als onze plicht, alsof dat het enige is waarvoor we (
 
 Als laatste viel me op dat er een behoorlijk negatieve houding bestaat ten opzichte van het werk als zendingsgebied of evangelisatieplek. Jos Douma merkt op dat dat terecht is omdat je op je werk komt om te werken en niet primair om te evangeliseren. Daar kan ik goed inkomen, al wil ik liever die scheiding niet zo trekken. Evangeliseren bestaat niet alleen uit het vertellen over Jezus en het delen van het evangelie.
 
-De beste evangelisatieboodschap ben je zelf. Of zoals Mark Greene zegt in zijn boek [Yes! ‘t Is weer maandag](http://www.geloofinjewerk.nl/2009/11/16/boek-review-yes-t-is-weer-maandag/):
+De beste evangelisatieboodschap ben je zelf. Of zoals Mark Greene zegt in zijn boek [Yes! ‘t Is weer maandag](/2009/11/16/boek-review-yes-t-is-weer-maandag/):
 
 
 
@@ -107,7 +107,7 @@ De beste evangelisatieboodschap ben je zelf. Of zoals Mark Greene zegt in zijn b
 
 
 
-Twee artikelen zijn in dit verband ook interessant: [12 Manieren om te getuigen zonder je baan te verliezen](http://www.geloofinjewerk.nl/2010/06/07/12-manieren-om-te-getuigen-zonder-je-baan-te-verliezen/) en [Mogen christenen hun religie meenemen naar hun werk?](http://www.geloofinjewerk.nl/2009/11/23/mogen-christenen-hun-religie-meenemen-naar-het-werk/)
+Twee artikelen zijn in dit verband ook interessant: [12 Manieren om te getuigen zonder je baan te verliezen](/2010/06/07/12-manieren-om-te-getuigen-zonder-je-baan-te-verliezen/) en [Mogen christenen hun religie meenemen naar hun werk?](/2009/11/23/mogen-christenen-hun-religie-meenemen-naar-het-werk/)
 
 De resultaten van de enquêtes vind je [hier](http://josdouma.wordpress.com/2010/11/04/op-je-werk-moet-je-gewoon-je-werk-doen/) en [hier](https://docs.google.com/present/view?id=0AYorU8ensVU4ZGM4a21kbnpfMGdzN2N0Ymdo&hl=en).
 

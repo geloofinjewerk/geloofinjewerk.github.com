@@ -3,7 +3,7 @@ comments: true
 date: 2009-12-03 08:00:22
 excerpt: Wil jij ook vrucht dragen zoals een druif volle trossen voortbrengt? In dit
   artikel laat ik je precies zien wat dat betekent.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: vrucht-dragen-voor-dummies
 title: Vrucht dragen voor dummies (en gevorderden)
@@ -42,7 +42,7 @@ We hebben gezien dat je zonder Jezus niets kunt doen dat vrucht voortbrengt. Hoe
 
 Dit is de voorwaarde voor vrucht dragen, jij in Hem en Hij in jou. Ook op je werk, ook van 9 tot 5.
 
-![Afbeelding van een wijngaard](http://www.geloofinjewerk.nl/images/2009/12/wijngaard.jpg)
+![Afbeelding van een wijngaard](/images/2009/12/wijngaard.jpg)
 
 
 
@@ -53,7 +53,7 @@ De wijnstok is net zoiets als de stam van een boom: hij heeft [wortels in de gro
 
 In [Ezechiël 17](http://www.biblija.net/biblija.cgi?m=Ezechi%EBl+17&id18=1&pos=0&l=nl&set=10) vind je het verhaal van een adelaar en een wijnstok. De ranken van de wijnstok richten zich op de adelaar (een machthebber), want ze willen daar hun water vandaan halen. En dat terwijl de wijnstok in waterrijke grond geplant is.
 
-![Druiventros](http://www.geloofinjewerk.nl/images/2009/12/Druiventros.jpg)De levenssappen van de druivenranken komen uit de wijnstok. Andere bronnen bieden niet de voedingsstoffen die ze nodig hebben om te groeien en om vruchten voort te brengen.
+![Druiventros](/images/2009/12/Druiventros.jpg)De levenssappen van de druivenranken komen uit de wijnstok. Andere bronnen bieden niet de voedingsstoffen die ze nodig hebben om te groeien en om vruchten voort te brengen.
 
 Zo is het ook belangrijk dat jij je niet richt op een adelaar (je werk, je baas?) maar dat je je kracht haalt uit de wijnstok: Jezus.
 

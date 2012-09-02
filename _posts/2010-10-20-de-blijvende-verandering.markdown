@@ -2,7 +2,7 @@
 comments: true
 date: 2010-10-20 10:00:01
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/10/vlinder.jpg
+image: /images/2010/10/vlinder.jpg
 layout: post
 slug: de-blijvende-verandering
 title: De blijvende verandering
@@ -17,7 +17,7 @@ tags:
 - stralen
 ---
 
-Vorige week hebben we gezien dat Mozes een [doek voor zijn gezicht](http://www.geloofinjewerk.nl/2010/10/13/doek-voor-je-gezicht/) deed als hij met God  had gesproken. Het gevolg daarvan was dat de Israëlieten de glans op zijn gezicht niet meer konden zien.
+Vorige week hebben we gezien dat Mozes een [doek voor zijn gezicht](/2010/10/13/doek-voor-je-gezicht/) deed als hij met God  had gesproken. Het gevolg daarvan was dat de Israëlieten de glans op zijn gezicht niet meer konden zien.
 
 Maar waarom deed Mozes nou die doek voor zijn gezicht? Waarom mochten de Israëlieten die glans niet meer zien? En wat betekent dat voor jou en mij?
 

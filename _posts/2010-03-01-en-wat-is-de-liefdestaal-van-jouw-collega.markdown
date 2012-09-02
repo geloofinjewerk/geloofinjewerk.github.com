@@ -4,7 +4,7 @@ date: 2010-03-01 08:00:29
 excerpt: Als het er om gaat om God lief te hebben en je naaste als jezelf dan kunnen
   de vijf liefdestalen een prima hulpmiddel zijn. Iedereen ervaart liefde weer op
   een andere manier, iedereen spreekt als het ware een andere liefdestaal.
-image: http://www.geloofinjewerk.nl/images/2010/02/Liefdestalen.jpg
+image: /images/2010/02/Liefdestalen.jpg
 layout: post
 slug: en-wat-is-de-liefdestaal-van-jouw-collega
 title: 'En, wat is de liefdestaal van jouw collega? '
@@ -72,7 +72,7 @@ Een manier om liefde te uiten is door het spreken van opbouwende woorden. Denk h
   * Nederige woorden
 
 
-![](http://www.geloofinjewerk.nl/images/2010/02/Liefdehand.jpg)
+![](/images/2010/02/Liefdehand.jpg)
 
 
 ## Liefdestaal 2: Tijd en aandacht
@@ -131,7 +131,7 @@ Dienen is liefde in actie. Neem het voorbeeld van Jezus die de voeten van zijn d
   * Invallen
 
 
-![](http://www.geloofinjewerk.nl/images/2010/02/Liefde.jpg)
+![](/images/2010/02/Liefde.jpg)
 
 
 ## Liefdestaal 5: Lichamelijke aanraking

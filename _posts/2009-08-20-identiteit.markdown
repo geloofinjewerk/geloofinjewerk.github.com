@@ -3,7 +3,7 @@ comments: true
 date: 2009-08-20 08:00:59
 excerpt: Wat je doet komt voort uit wie je bent (je identiteit). Hoe meer je op Hem
   lijkt hoe meer je van Hem uitstraalt. Je collega’s zullen Jezus in je herkennen.
-image: http://www.geloofinjewerk.nl/images/2009/09/paspoort.jpg
+image: /images/2009/09/paspoort.jpg
 layout: post
 slug: identiteit
 title: Identiteit

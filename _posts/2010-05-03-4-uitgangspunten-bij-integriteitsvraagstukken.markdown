@@ -5,7 +5,7 @@ excerpt: Voor het veranderen van situaties met een integriteitsvraagstuk of ethi
   dilemma waar jij geen directe invloed op hebt kun je een aantal uitgangspunten gebruiken.
   Gehoorzaamheid is de basishouding waarbij je na het volledige plaatje gezien te
   hebben door middel van overleg een alternatief aanbiedt.
-image: http://www.geloofinjewerk.nl/images/2010/04/integriteit-deel-3.jpg
+image: /images/2010/04/integriteit-deel-3.jpg
 layout: post
 slug: 4-uitgangspunten-bij-integriteitsvraagstukken
 title: 4 uitgangspunten bij integriteitsvraagstukken
@@ -27,7 +27,7 @@ Vandaag gaan we kijken naar uitgangspunten voor verandering van situaties met ee
 
 
 
-![Afbeelding van een cirkel van betrokkenheid met daarbinnen de cirkel van invloed](http://www.geloofinjewerk.nl/images/2010/04/cirkel-invloed-betrokkenheid.png)
+![Afbeelding van een cirkel van betrokkenheid met daarbinnen de cirkel van invloed](/images/2010/04/cirkel-invloed-betrokkenheid.png)
 
 Zoals we in deel 2 hebben gezien bevinden deze situaties zich wel binnen je cirkel van betrokkenheid maar niet binnen je cirkel van invloed. Neem deze situaties nog eens in gedachten.
 
@@ -82,7 +82,7 @@ Dit is de basishouding: het accepteren van het gezag van je leidinggevende en he
 
 [Daniël](/2009/07/16/daniel-medewerker-van-het-jaar/) is hierin een treffend voorbeeld: hij wordt uitgekozen om de heidense Babylonische koning te dienen. Deze opdracht gehoorzaamt hij. Hij moet zich verdiepen in de taal en de geschriften van de Chaldeeën, die grotendeels afgodisch van aard waren. Ook hierin gehoorzaamde hij.
 
-![Afbeelding van een teamoverleg](http://www.geloofinjewerk.nl/images/2010/05/overleg.jpg)
+![Afbeelding van een teamoverleg](/images/2010/05/overleg.jpg)
 
 
 
@@ -101,7 +101,7 @@ Dit is het derde uitgangspunt: in plaats van (botweg) een opdracht te weigeren i
 
 De lerares deed dit ook: ze ging in overleg en mocht een andere lesmethode uitkiezen. Hiermee was haar ethische dilemma opgelost.
 
-![Afbeelding van een zakenman die argumenten aangeeft](http://www.geloofinjewerk.nl/images/2010/05/argumenten.jpg)
+![Afbeelding van een zakenman die argumenten aangeeft](/images/2010/05/argumenten.jpg)
 
 
 

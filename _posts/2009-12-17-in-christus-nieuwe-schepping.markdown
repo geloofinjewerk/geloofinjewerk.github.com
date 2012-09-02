@@ -4,7 +4,7 @@ date: 2009-12-17 08:00:42
 excerpt: '"Daarom ook is iemand die één met Christus is, een nieuwe schepping." 2
   Kor. 5:17 In dit artikel leg ik je uit wat het betekent om een nieuwe schepping
   te zijn.'
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: in-christus-nieuwe-schepping
 title: In Christus bén je een nieuwe schepping
@@ -43,7 +43,7 @@ Als jij dus naar je werk gaat loop je daar als nieuwgeboren, nieuw geschapen men
 ## Je nieuwe zelf aandoen
 
 
-![Nieuw](http://www.geloofinjewerk.nl/images/2009/12/Nieuw.png)Je bent een nieuwe schepping, dat is een vaststaand feit als je in Jezus gelooft. Maar dat besef je niet altijd. Daarom is het belangrijk dat je leert wat die nieuwe schepping inhoudt, je moet eigenlijk je nieuwe ik leren kennen.
+![Nieuw](/images/2009/12/Nieuw.png)Je bent een nieuwe schepping, dat is een vaststaand feit als je in Jezus gelooft. Maar dat besef je niet altijd. Daarom is het belangrijk dat je leert wat die nieuwe schepping inhoudt, je moet eigenlijk je nieuwe ik leren kennen.
 
 Daar gaat deze hele serie De Spiegel over: het leren kennen van je nieuwe identiteit in Christus. Paulus zegt in [Ef. 4:24](http://www.biblija.net/biblija.cgi?m=Ef+4%3A24&id42=0&id18=1&pos=0&l=nl&set=10) dat je je nieuwe zelf (nieuwe mens) moet aantrekken. Dat is de kern, steeds meer ontdekken wie je bent. Dat heeft vanzelf invloed op wat je doet, op je werk, op je relaties met collega’s etc.
 

@@ -3,7 +3,7 @@ comments: true
 date: 2010-01-04 08:00:23
 excerpt: 2009 was een bewogen jaar met veel hoogtepunten. 2010 wordt een mooi jaar,
   ik heb al veel plannen voor dit nieuwe jaar! Ik zet ze voor je op een rijtje.
-image: http://www.geloofinjewerk.nl/images/2009/12/Vuurwerk.jpg
+image: /images/2009/12/Vuurwerk.jpg
 layout: post
 slug: doei-2009-hoi-2010
 title: Doei 2009, hoi 2010!
@@ -68,7 +68,7 @@ Afgelopen jaar stond in het teken van de opstart van mijn bedrijf en deze websit
 
 Het was een mooi jaar en ik wil jullie allemaal bedanken voor alle reacties, e-mails, gesprekken en telefoontjes! Zonder jullie was dit allemaal niet mogelijk geweest!
 
-![Sneeuwvlakte](http://www.geloofinjewerk.nl/images/2009/12/Sneeuwvlakte.jpg)
+![Sneeuwvlakte](/images/2009/12/Sneeuwvlakte.jpg)
 
 
 
@@ -122,7 +122,7 @@ Wil je deze vragen beantwoorden, zodat ik er ook in 2010 voor je kan zijn en je 
   2. Waar zou jij graag willen dat ik een artikel over schrijf?
 
 	
-  3. Wat zijn de moeilijkste dingen aan [christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/) voor jou?
+  3. Wat zijn de moeilijkste dingen aan [christen zijn op je werk](/christen-zijn-op-je-werk/) voor jou?
 
 	
   4. Wat vind je tot nu toe van mij en mijn website?

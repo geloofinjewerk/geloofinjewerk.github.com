@@ -3,7 +3,7 @@ comments: true
 date: 2009-12-21 08:00:29
 excerpt: Een dag in gebed helpt je om de focus op God terug te krijgen. In dit artikel
   geef ik je vijf redenen om een dag in gebed door te brengen.
-image: http://www.geloofinjewerk.nl/images/2009/12/Zandvlakte.jpg
+image: /images/2009/12/Zandvlakte.jpg
 layout: post
 slug: dag-in-gebed
 title: Ervaar God door een dag in gebed door te brengen

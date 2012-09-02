@@ -4,7 +4,7 @@ date: 2011-01-12 10:00:09
 excerpt: De Managersagenda bestaat uit tijdsloten van 1 uur en biedt de mogelijkheid
   om ieder uur iets anders te doen. De Makersagenda bestaat uit hele dagen of dagdelen
   waarin makers min of meer onafgebroken aan iets werken.
-image: http://www.geloofinjewerk.nl/images/2009/11/CEO.jpg
+image: /images/2009/11/CEO.jpg
 layout: post
 slug: managers-makers
 title: De Managersagenda en de Makersagenda

@@ -4,7 +4,7 @@ date: 2009-09-10 08:00:54
 excerpt: De hele dag door komen er enorme stromen informatie op ons af, zowel op ons
   werk als daarbuiten. Hoe kun je nou dicht bij God blijven temidden van al deze informatie?
   Hoe kun je Zijn stem verstaan?
-image: http://www.geloofinjewerk.nl/images/2009/09/Veldbloem.jpg
+image: /images/2009/09/Veldbloem.jpg
 layout: post
 slug: gods-stem-verstaan-in-een-informatiemaatschappij
 title: Gods stem verstaan in een informatiemaatschappij
@@ -41,7 +41,7 @@ Een paar gedachten:
   3. Gods tweets en krabbels vind je in de Bijbel. Door in zijn woord te lezen hoor je wat Hij tegen je zegt. “_Mijn plan met jullie staat vast – spreekt de HEER. Ik heb jullie geluk voor ogen, niet jullie ongeluk: ik zal je een hoopvolle toekomst geven._” ([Jer. 29:11](http://www.biblija.net/biblija.cgi?m=Jeremia+29%3A11&id18=1&pos=0&l=nl&set=10)), “_Hij zal je beschermen met zijn vleugels, onder zijn wieken vind je een toevlucht, zijn trouw is een veilig schild._” ([Ps. 91:4](http://www.biblija.net/biblija.cgi?m=Psalm+91%3A4&id18=1&pos=0&l=nl&set=10)) en “_En houd dit voor ogen: ik ben met jullie, alle dagen, tot aan de voltooiing van deze wereld._” ([Mat. 28:20](http://www.biblija.net/biblija.cgi?m=Matte%FCs+28%3A20&id18=1&id16=1&pos=0&l=nl&set=10&idp0=19&idp1=17)).
 
 
-[caption id="attachment_211" align="aligncenter" width="300" caption=" "][![Cover MACHTIG MOOI!](http://www.geloofinjewerk.nl/images/2009/09/cover-machtigmooi0-300x216.jpg)](http://www.machtigmooi.com)[/caption]
+[caption id="attachment_211" align="aligncenter" width="300" caption=" "][![Cover MACHTIG MOOI!](/images/2009/09/cover-machtigmooi0-300x216.jpg)](http://www.machtigmooi.com)[/caption]
 
 
 

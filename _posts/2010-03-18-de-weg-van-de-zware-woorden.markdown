@@ -4,7 +4,7 @@ date: 2010-03-18 08:00:21
 excerpt: 'Je bent een kind van God en je bent het licht van de wereld. Deze twee komen
   samen als je een kind van het licht genoemd wordt. Als kind van het licht brengt
   je vrucht voort: goedheid, gerechtigheid en waarheid.'
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: de-weg-van-de-zware-woorden
 title: De weg van de zware woorden
@@ -40,7 +40,7 @@ Ook hebben we al gezien dat je een [kind van God](/2009/11/26/kind-van-god-ontde
 
 Vandaag komen deze twee onderdelen van je identiteit in Christus eigenlijk samen in een derde onderdeel: je bent een kind van het licht. Je bent in staat om de weg van de kinderen van het licht te gaan.
 
-![Afbeelding van een weg met een lichtspoort](http://www.geloofinjewerk.nl/images/2010/03/wegvanhetlicht.jpg)
+![Afbeelding van een weg met een lichtspoort](/images/2010/03/wegvanhetlicht.jpg)
 
 
 

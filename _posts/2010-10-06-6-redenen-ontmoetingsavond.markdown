@@ -4,7 +4,7 @@ date: 2010-10-06 10:00:40
 excerpt: Naast de Landelijke Themazondag ‘Christen-zijn op je werk’ op zondag 7 november
   zijn er ook vier regionale ontmoetingsavonden. 6 Redenen om daar zeker naartoe te
   komen vind je in dit artikel.
-image: http://www.geloofinjewerk.nl/images/2010/10/ontmoetingsavond.jpg
+image: /images/2010/10/ontmoetingsavond.jpg
 layout: post
 slug: 6-redenen-ontmoetingsavond
 title: '6 Redenen om naar een ontmoetingsavond ''Christen-zijn op je werk'' te komen '
@@ -24,13 +24,13 @@ tags:
 - werkgroep
 ---
 
-Net als [vorig jaar](http://www.geloofinjewerk.nl/2009/11/20/terugblik-ontmoetingsavond-christen-zijn-op-je-werk-eindhoven/) organiseert de [Werkgroep Christen-zijn op je werk](http://www.christenzijnopjewerk.nl) weer een aantal regionale ontmoetingsavonden over christen-zijn op je werk.
+Net als [vorig jaar](/2009/11/20/terugblik-ontmoetingsavond-christen-zijn-op-je-werk-eindhoven/) organiseert de [Werkgroep Christen-zijn op je werk](http://www.christenzijnopjewerk.nl) weer een aantal regionale ontmoetingsavonden over christen-zijn op je werk.
 
 Op deze avonden is er aandacht voor de relatie tussen geloof en werk. Je ontmoet andere christenen (uit jouw regio) en wisselt van gedachten over wat christen-zijn op je werk inhoudt en hoe je dat gestalte kunt geven. Door middel van diverse workshops ontdek je nieuwe gezichtspunten, praktische handvatten e.d.
 
 
 
-Naast de [Landelijke Themazondag ‘Christen-zijn op je werk’](http://www.geloofinjewerk.nl/2010/09/22/6-redenen-themazondag/) op zondag 7 november zijn er ook vier regionale ontmoetingsavonden. 6 Redenen om daar zeker naartoe te komen:
+Naast de [Landelijke Themazondag ‘Christen-zijn op je werk’](/2010/09/22/6-redenen-themazondag/) op zondag 7 november zijn er ook vier regionale ontmoetingsavonden. 6 Redenen om daar zeker naartoe te komen:
 
 
 
@@ -60,7 +60,7 @@ De Sacred-Secular Divide (SSD) is het denkbeeld dat er een verschil is tussen ge
 
 
 
-![Logo Werkgroep Christen-zijn op je werk](http://www.geloofinjewerk.nl/images/2010/09/logo-werkgroep.png)
+![Logo Werkgroep Christen-zijn op je werk](/images/2010/09/logo-werkgroep.png)
 
 
 

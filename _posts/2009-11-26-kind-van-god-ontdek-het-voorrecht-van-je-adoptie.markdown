@@ -4,7 +4,7 @@ date: 2009-11-26 08:00:58
 excerpt: “Wie Hem wel ontvingen en in zijn naam geloven, heeft Hij het voorrecht gegeven
   om kinderen van God te worden.” Joh. 1:12. In dit artikel geef ik een aanzet van
   wat het inhoudt om kind van God te worden.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: kind-van-god-ontdek-het-voorrecht-van-je-adoptie
 title: 'Kind van God: ontdek het voorrecht van je adoptie'
@@ -54,7 +54,7 @@ Dit verandert ook je kijk op werk, roeping, collega’s, etc. Toch?
 ## Geadopteerd door de Vader
 
 
-![Afbeelding van twee babyvoetjes in de handen van zijn vader](http://www.geloofinjewerk.nl/images/2009/11/voetjesinhanden.jpg)Bovendien heeft God ons de Geest van zijn Zoon gegeven die “Abba, Vader” roept. Abba betekent gewoon simpelweg “Papa”. Je kan Papa tegen God zeggen door de Geest van zijn Zoon.
+![Afbeelding van twee babyvoetjes in de handen van zijn vader](/images/2009/11/voetjesinhanden.jpg)Bovendien heeft God ons de Geest van zijn Zoon gegeven die “Abba, Vader” roept. Abba betekent gewoon simpelweg “Papa”. Je kan Papa tegen God zeggen door de Geest van zijn Zoon.
 
 Deze Geest, de Heilige Geest, wordt ook wel de “Geest van adoptie” genoemd. Je bent door God geadopteerd.
 

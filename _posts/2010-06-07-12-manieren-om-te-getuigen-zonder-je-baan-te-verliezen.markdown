@@ -5,7 +5,7 @@ excerpt: In het algemeen wordt het openlijk delen van je geloof niet echt geacce
   op de werkvloer. Een zeepkistje in de kantine neerzetten is niet echt een goed idee.
   Je zou niet de eerste zijn die “te vol” is van zijn geloof en daardoor een andere
   baan mag gaan zoeken. Hoe kun je dan wel getuigen, zonder je baan te verliezen?
-image: http://www.geloofinjewerk.nl/images/2010/05/megafoon.jpg
+image: /images/2010/05/megafoon.jpg
 layout: post
 slug: 12-manieren-om-te-getuigen-zonder-je-baan-te-verliezen
 title: 12 manieren om te getuigen zonder je baan te verliezen
@@ -19,7 +19,7 @@ tags:
 - plicht
 ---
 
-De meeste mensen die ik spreek denken bij [christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/) aan getuigen of evangeliseren op de werkvloer.
+De meeste mensen die ik spreek denken bij [christen zijn op je werk](/christen-zijn-op-je-werk/) aan getuigen of evangeliseren op de werkvloer.
 
 Als je deze website al een tijdje volgt, dan weet je dat christen zijn op je werk veel méér is dan getuigen. Werk is een roeping en niet alleen maar zendingsgebied.
 
@@ -56,7 +56,7 @@ Onderstaande manieren zijn ideeën die je naar jouw eigen situatie kunt vertalen
 
 Denk eraan dat je, voordat je met getuigen aan de slag gaat, eerst even checkt hoe goed je relaties met je collega’s zijn. De brug tussen twee mensen moet sterk genoeg zijn voor de waarheid die daarover heen moet gaan.
 
-![Afbeelding van een bijbeltekst](http://www.geloofinjewerk.nl/images/2010/06/spreuken16-3.png)
+![Afbeelding van een bijbeltekst](/images/2010/06/spreuken16-3.png)
 
 
 
@@ -88,7 +88,7 @@ Uit de categorie gevend getuigen:
   * **WK-traktaatje** geven. Voetbal is vaak een gemeenschappelijke interesse. Zie bijv. [watisjedoel.nl](http://www.watisjedoel.nl)
 
 	
-  * **Waarom Kerst** DVD geven. [Daarover hebben we het al eerder gehad.](http://www.geloofinjewerk.nl/2009/12/07/6-redenen-waarom-kerst-dvd/)
+  * **Waarom Kerst** DVD geven. [Daarover hebben we het al eerder gehad.](/2009/12/07/6-redenen-waarom-kerst-dvd/)
 
 	
   * Goed christelijk **boek** geven. Om jouw visie op een bepaalde zaak te geven.
@@ -98,7 +98,7 @@ Uit de categorie gevend getuigen:
 
 
 
-![Afbeelding van een glas wijn](http://www.geloofinjewerk.nl/images/2010/06/glaswijn.jpg)
+![Afbeelding van een glas wijn](/images/2010/06/glaswijn.jpg)
 
 
 

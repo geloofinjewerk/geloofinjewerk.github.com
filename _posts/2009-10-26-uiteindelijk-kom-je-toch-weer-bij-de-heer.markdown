@@ -3,7 +3,7 @@ comments: true
 date: 2009-10-26 08:00:55
 excerpt: Een persoonlijk verhaal over verlangen en het bereiken van je verlangen.
   Wij planten en begieten, maar de Heer zorgt voor de groei!
-image: http://www.geloofinjewerk.nl/images/2009/10/Druivenblad.jpg
+image: /images/2009/10/Druivenblad.jpg
 layout: post
 slug: uiteindelijk-kom-je-toch-weer-bij-de-heer
 title: Uiteindelijk kom je toch weer bij de Heer

@@ -4,7 +4,7 @@ date: 2010-08-04 10:00:19
 excerpt: De Relatie Evaluatie vragenlijst kun je gebruiken om de relaties met de mensen
   om je heen te evalueren. Hoe ben je met hen omgegaan en wat zou je daarin willen
   veranderen, is de centrale vraag van deze evaluatie.
-image: http://www.geloofinjewerk.nl/images/2010/08/relaties.jpg
+image: /images/2010/08/relaties.jpg
 layout: post
 slug: evaluatie-tijd-hoe-staat-het-met-je-relaties
 title: Evaluatie tijd! Hoe staat het met je relaties?
@@ -21,9 +21,9 @@ tags:
 
 De zomer is, samen met de periode rond de jaarwisseling, een tijd van nadenken en evalueren. Tijdens je vakantie even op adem komen en nadenken over wat er allemaal is gebeurd en waar je naartoe wilt.
 
-Door middel van de [12 vragen voor tijdens je vakantie](http://www.geloofinjewerk.nl/2010/07/14/12-vragen-voor-tijdens-je-vakantie/) heb je al een evaluatie gehouden van je motivatie, je plannen en je toekomst.
+Door middel van de [12 vragen voor tijdens je vakantie](/2010/07/14/12-vragen-voor-tijdens-je-vakantie/) heb je al een evaluatie gehouden van je motivatie, je plannen en je toekomst.
 
-Wil jij weten hoe het met je [relaties](http://www.geloofinjewerk.nl/2010/07/21/relaties-leggen-is-niet-zo-moeilijk/) gesteld is? Vandaag gaan we evalueren hoe je relaties ervoor staan.
+Wil jij weten hoe het met je [relaties](/2010/07/21/relaties-leggen-is-niet-zo-moeilijk/) gesteld is? Vandaag gaan we evalueren hoe je relaties ervoor staan.
 
 
 
@@ -40,7 +40,7 @@ Hoe dan ook, ik heb een vragenlijst samengesteld om jou te helpen om je relaties
 
 De vragen zijn bedoeld voor je werksituatie maar je kunt ze natuurlijk ook toepassen op andere gebieden in je leven. Ze zijn erop gericht om je te laten nadenken over de mensen die je kent. Hoe ben je met hen omgegaan en wat zou je daarin willen veranderen, is de centrale vraag daarbij.
 
-![Afbeelding van het Relatie Evaluatie Formulier](http://www.geloofinjewerk.nl/images/2010/08/evaluatieformulier.jpg)
+![Afbeelding van het Relatie Evaluatie Formulier](/images/2010/08/evaluatieformulier.jpg)
 
 
 
@@ -52,7 +52,7 @@ Dit is wat je moet doen:
 
 
 	
-  * [Download de Relatie Evaluatie (PDF)](http://www.geloofinjewerk.nl/files/2010/08/Relatie-evaluatie.pdf) en vul hem in.
+  * [Download de Relatie Evaluatie (PDF)](/files/2010/08/Relatie-evaluatie.pdf) en vul hem in.
 
 	
   * Neem hier ruim de tijd voor en formuleer concrete actiepunten om je relaties te verbeteren en/of te verdiepen.
@@ -61,6 +61,6 @@ Dit is wat je moet doen:
   * Bied alsnog je excuses aan en/of vraag vergeving, indien van toepassing.
 
 	
-  * Laat hieronder een reactie achter met wat deze evaluatie voor jou heeft betekent. (Als je dit in een e-mail leest, [ga dan naar de website en laat een reactie achter.](http://www.geloofinjewerk.nl/2010/08/04/evaluatie-tijd-hoe-staat-het-met-je-relaties/))
+  * Laat hieronder een reactie achter met wat deze evaluatie voor jou heeft betekent. (Als je dit in een e-mail leest, [ga dan naar de website en laat een reactie achter.](/2010/08/04/evaluatie-tijd-hoe-staat-het-met-je-relaties/))
 
 

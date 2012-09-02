@@ -27,7 +27,7 @@ _Vorige week schreef ik over _[_Gods stem verstaan in de informatiemaatschappij_
 ## Slecht nieuws gesprek
 
 
-![Afbeelding van een dromend jongetje](http://www.geloofinjewerk.nl/images/2009/09/jongensdroom.jpg)De profeet Samuël groeide op in een tijd dat er zelden een woord van de Heer klonk en er geen visioenen doorbraken ([1 Sam. 3](http://www.biblija.net/biblija.cgi?m=1+samuel+3&id18=1&pos=0&l=nl&set=10)). Hij leerde de stem van God kennen toen hij ‘s nachts door God geroepen werd. Het was de eerste keer dat Samuël Zijn stem hoorde en hij mocht meteen een slecht nieuws gesprek met zijn baas, de priester Eli, houden: Eli was niet in staat om zijn zonen in toom te houden en onteerde God hier zo mee, dat Hij zijn belofte herriep en Eli’s hele familie zou laten sterven. Je zal er maar aanstaan.
+![Afbeelding van een dromend jongetje](/images/2009/09/jongensdroom.jpg)De profeet Samuël groeide op in een tijd dat er zelden een woord van de Heer klonk en er geen visioenen doorbraken ([1 Sam. 3](http://www.biblija.net/biblija.cgi?m=1+samuel+3&id18=1&pos=0&l=nl&set=10)). Hij leerde de stem van God kennen toen hij ‘s nachts door God geroepen werd. Het was de eerste keer dat Samuël Zijn stem hoorde en hij mocht meteen een slecht nieuws gesprek met zijn baas, de priester Eli, houden: Eli was niet in staat om zijn zonen in toom te houden en onteerde God hier zo mee, dat Hij zijn belofte herriep en Eli’s hele familie zou laten sterven. Je zal er maar aanstaan.
 
 Verplaats je eens in de situatie van Samuël. Zou je niet twijfelen of het wel écht God’s stem was?
 

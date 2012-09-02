@@ -4,7 +4,7 @@ date: 2010-06-16 10:00:03
 excerpt: Het besef van gezag en de mogelijkheid tot het uitoefenen van gezag zit al
   in de mens ingebakken. Alle gezag komt van God en gehoorzaamheid is de basishouding
   om daarmee om te gaan.
-image: http://www.geloofinjewerk.nl/images/2010/05/ontslag.jpg
+image: /images/2010/05/ontslag.jpg
 layout: post
 slug: wie-deelt-hier-de-lakens-uit
 title: Wie deelt hier de lakens uit?
@@ -66,7 +66,7 @@ Vergelijk het met Pilatus, die veroordeelde Jezus maar zijn gezag was van God ge
 
 
 
-![](http://www.geloofinjewerk.nl/images/2009/11/CEO.jpg)
+![](/images/2009/11/CEO.jpg)
 
 
 
@@ -82,7 +82,7 @@ De relatie leidinggevende-ondergeschikte is, zeker in de tijd van de Bijbel, te 
 
 
 
-Dat is de basis, gehoorzaamheid. Als er zaken spelen waar je het niet mee eens bent of waar je niet aan mee kunt of wilt doen, dan is het niet verstandig om direct met je hakken in het zand te weigeren. Met gehoorzaamheid als uitgangspunt en basishouding heb ik al laten zien hoe je met dit soort situaties om kunt gaan in het artikel: [4 uitgangspunten bij integriteitsvraagstukken.](http://www.geloofinjewerk.nl/2010/05/03/4-uitgangspunten-bij-integriteitsvraagstukken/)
+Dat is de basis, gehoorzaamheid. Als er zaken spelen waar je het niet mee eens bent of waar je niet aan mee kunt of wilt doen, dan is het niet verstandig om direct met je hakken in het zand te weigeren. Met gehoorzaamheid als uitgangspunt en basishouding heb ik al laten zien hoe je met dit soort situaties om kunt gaan in het artikel: [4 uitgangspunten bij integriteitsvraagstukken.](/2010/05/03/4-uitgangspunten-bij-integriteitsvraagstukken/)
 
 
 

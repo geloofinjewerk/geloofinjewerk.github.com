@@ -2,7 +2,7 @@
 comments: true
 date: 2010-11-24 10:00:00
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/11/rusten.jpg
+image: /images/2010/11/rusten.jpg
 layout: post
 slug: rust-voltooit-je-werk
 title: Rust voltooit je werk
@@ -47,7 +47,7 @@ Wanneer de joden door middel van een sabbatsmaaltijd de sabbat ingaan, geven ze 
 
 
 
-![Water geven](http://www.geloofinjewerk.nl/images/2010/11/watergeven.jpg)
+![Water geven](/images/2010/11/watergeven.jpg)
 
 Hoe gaan wij met ons werk om? Vertrouwen we God voor de vrucht, voor de groei? Geven we het aan Hem terug als het weekend is?
 

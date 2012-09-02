@@ -3,7 +3,7 @@ comments: true
 date: 2009-07-16 11:25:53
 excerpt: Een goed voorbeeld van christen zijn op je werk is Daniël. In dit artikel
   licht ik een aantal aspecten uit zijn leven toe.
-image: http://www.geloofinjewerk.nl/images/2009/07/Medewerker-van-het-jaar-300x211.png
+image: /images/2009/07/Medewerker-van-het-jaar-300x211.png
 layout: post
 slug: daniel-medewerker-van-het-jaar
 title: 'Daniël: medewerker van het jaar'
@@ -17,7 +17,7 @@ tags:
 - Gezag
 ---
 
-Een goed voorbeeld van [christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/) is Daniël. Hij werd tijdens de belegering door Nebukadnessar, koning van Babylonië, meegenomen naar het paleis van de koning (zie [Daniël 1](http://www.biblija.net/biblija.cgi?m=Daniel+1&id18=1&pos=0&l=nl&set=10)). 
+Een goed voorbeeld van [christen zijn op je werk](/christen-zijn-op-je-werk/) is Daniël. Hij werd tijdens de belegering door Nebukadnessar, koning van Babylonië, meegenomen naar het paleis van de koning (zie [Daniël 1](http://www.biblija.net/biblija.cgi?m=Daniel+1&id18=1&pos=0&l=nl&set=10)). 
 
 Daar kregen ze een driejarige opleiding om de koning te dienen aan het hof. Ik zie een aantal aspecten die heel belangrijk zijn:
 

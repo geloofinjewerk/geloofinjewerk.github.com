@@ -3,7 +3,7 @@ comments: true
 date: 2009-08-10 08:00:32
 excerpt: De liefdesrelatie met God de Vader is de belangrijkste van ons leven. Daar
   bovenop hebben we als het ware een arbeidsrelatie met God.
-image: http://www.geloofinjewerk.nl/images/2009/09/Passiebloem.jpg
+image: /images/2009/09/Passiebloem.jpg
 layout: post
 slug: liefde-voor-arbeid
 title: Liefde voor arbeid
@@ -26,7 +26,7 @@ Jezus was nog niet begonnen met zijn werk (het prediken van het evangelie) toen 
 
 De liefdesrelatie met God de Vader is de belangrijkste van ons leven. Het is de basis, de grond waarop we staan. Daar bovenop hebben we als het ware een arbeidsrelatie met God. Dan gaat het over de Grote Opdracht, over het uitdelen van het evangelie, over de gaven van de Geest etc. De liefdesrelatie met God is gericht op God en jou, de arbeidsrelatie is met name gericht op anderen. Wat we in die arbeidsrelatie doen heeft geen invloed op hoe God naar je kijkt, op hoeveel Hij van je houdt. De liefdesrelatie is de basis, de arbeidsrelatie komt daar bovenop:
 
-[caption id="attachment_111" align="aligncenter" width="300" caption="Relaties"]![Relaties](http://www.geloofinjewerk.nl/images/2009/07/relaties.png)[/caption]
+[caption id="attachment_111" align="aligncenter" width="300" caption="Relaties"]![Relaties](/images/2009/07/relaties.png)[/caption]
 
 Jezus koos twaalf mannen uit om 1) met Hem te zijn, 2) hen uit te zenden om het evangelie te prediken en 3) boze geesten uit te drijven ([Mc. 3:14-15](http://www.biblija.net/biblija.cgi?m=Marcus+3%3A14%2C15&id16=1&pos=0&l=nl&set=10)). Ook hier zie je weer eerst die liefdesrelatie: Hij koos ze uit om met Hem te zijn. Pas daarna de arbeidsrelatie/uitzendrelatie: Hij koos ze uit om ze uit te zenden om te prediken en boze geesten uit te drijven. Het is belangrijk om niet te beginnen met 2) of 3) voordat je een goeie basis hebt, een liefdesrelatie met Jezus!
 

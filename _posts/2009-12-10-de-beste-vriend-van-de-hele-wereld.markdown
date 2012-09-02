@@ -4,7 +4,7 @@ date: 2009-12-10 08:00:07
 excerpt: '"Vrienden noem ik jullie" zei Jezus. Mozes sprak face to face met God, zoals
   vrienden dat doen. In dit artikel leg ik je uit wat Jezus bedoeld als Hij zegt dat
   jij zijn vriend bent.'
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: de-beste-vriend-van-de-hele-wereld
 title: De beste vriend van de hele wereld
@@ -53,7 +53,7 @@ Maar, zul je vragen, Paulus zegt toch heel vaak dat hij een dienaar van Christus
 
 Beiden waren dienaren van de koning, respectievelijk David en Salomo, maar van hen staat geschreven dat ze de vriend van de koning waren, de vertrouwensman. De koning maakte aan hen bekend wat hij wilde gaan doen en besprak veel met hen. Zo’n vriend mag jij van Jezus zijn.
 
-![Afbeelding van twee olifanten](http://www.geloofinjewerk.nl/images/2009/12/olifanten.jpg)
+![Afbeelding van twee olifanten](/images/2009/12/olifanten.jpg)
 
 Je hoeft dus geen slaafse mentaliteit te hebben om God te kunnen dienen. Je kunt God dienen als vriend, vanuit relatie, vanuit liefde.
 

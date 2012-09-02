@@ -3,7 +3,7 @@ comments: true
 date: 2009-12-24 08:00:30
 excerpt: '"Hij heeft ons door Christus met zich verzoend." 2 Kor. 5:18. In dit artikel
   laat ik zien wat het inhoudt om verzoend te zijn met God.'
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: verzoend-met-god
 title: Verzoend met God
@@ -46,7 +46,7 @@ Ervaar jij vijandschap in een relatie? Zou je in die relatie een verandering wil
 
 God heeft ons met Hem verzoend. Hij nam het initiatief door Zijn Zoon te geven. Dat is de [kern van Kerst](/2009/12/07/6-redenen-waarom-kerst-dvd/): de komst van Jezus naar de aarde, om voor ons tot zonde te worden, zodat Hij ons met Hem kon verzoenen!
 
-![Afbeelding van een doornenkroon](http://www.geloofinjewerk.nl/images/2009/12/doornenkroon.jpg)
+![Afbeelding van een doornenkroon](/images/2009/12/doornenkroon.jpg)
 
 
 

@@ -2,7 +2,7 @@
 comments: true
 date: 2010-10-27 10:00:20
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/10/boterhamsalami.jpg
+image: /images/2010/10/boterhamsalami.jpg
 layout: post
 slug: kracht-gebed-werkvloer
 title: De kracht van gebed op de werkvloer
@@ -15,7 +15,7 @@ tags:
 - werkvloer
 ---
 
-We hebben het al eens gehad over [samen bidden op je werk](http://www.geloofinjewerk.nl/2010/01/18/7-redenen-om-samen-te-bidden-op-je-werk/). Maar nu wil ik laten zien hoe je zelf gebed kunt gebruiken op de werkvloer.
+We hebben het al eens gehad over [samen bidden op je werk](/2010/01/18/7-redenen-om-samen-te-bidden-op-je-werk/). Maar nu wil ik laten zien hoe je zelf gebed kunt gebruiken op de werkvloer.
 
 Wel of niet bidden voor je eten om op die manier te laten zien dat je christen bent. Dat is waar de meeste mensen aan denken als je het hebt over bidden op je werk. In dit artikel gaan we verder dan dat: van bidden voor je eten tot geestelijke strijd op je werk, het komt allemaal aan bod.
 

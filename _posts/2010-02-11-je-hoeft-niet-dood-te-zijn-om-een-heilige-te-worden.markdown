@@ -4,7 +4,7 @@ date: 2010-02-11 12:00:56
 excerpt: Ben je een zondaar, door de genade van God gered? Of een heilige die af en
   toe nog zondigt? Wat dat inhoudt en het verschil wat dit maakt laat ik je in dit
   artikel zien.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: je-hoeft-niet-dood-te-zijn-om-een-heilige-te-worden
 title: Je hoeft niet dood te zijn om een heilige te worden

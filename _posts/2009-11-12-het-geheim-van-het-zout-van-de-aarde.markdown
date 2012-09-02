@@ -4,7 +4,7 @@ date: 2009-11-12 08:00:05
 excerpt: “Jullie zijn het zout van de aarde.” zei Jezus. Er zijn 14.000 toepassingen
   van zout. We bekijken er enkele om te zien wat het betekent om het zout van de aarde
   te zijn.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: het-geheim-van-het-zout-van-de-aarde
 title: Het geheim van het zout van de aarde

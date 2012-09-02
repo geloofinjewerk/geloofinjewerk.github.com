@@ -6,7 +6,7 @@ excerpt: Het lijkt zo moeilijk om te leven in de wereld en toch trouw te blijven
   voortdurend in een spagaat leven tussen wat de maatschappij van ons verwacht en
   wat God van ons “verwacht”. Hoe kun je nu staande blijven in de wereld? Kun je ook
   verdergaan en de wereld veranderen?
-image: http://www.geloofinjewerk.nl/images/2010/05/spagaat.jpg
+image: /images/2010/05/spagaat.jpg
 layout: post
 slug: leven-in-de-wereld-terwijl-je-trouw-blijft-aan-god
 title: Leven in de wereld terwijl je trouw blijft aan God
@@ -100,7 +100,7 @@ Als je het verhaal van Daniël leest zie je hoe hij hiermee omging. Hij ging in 
 
 De basis van Daniëls leven was zijn relatie met God. Hierdoor kon hij staande blijven in de wereld waarin hij leefde.
 
-![Afbeelding van een zakenman die balanceert op de rand van de afgrond](http://www.geloofinjewerk.nl/images/2010/05/randvandeafgrond.jpg)
+![Afbeelding van een zakenman die balanceert op de rand van de afgrond](/images/2010/05/randvandeafgrond.jpg)
 
 
 

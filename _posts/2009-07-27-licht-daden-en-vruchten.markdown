@@ -21,7 +21,7 @@ tags:
 
 We _zijn_ dus het licht in de wereld. Wij zijn niet alleen het lampje dat Jezus gebruikt om Zijn Licht doorheen te stralen, maar we zijn ook het licht zélf. Ja maar, Jezus is toch het licht van de wereld ([Jh. 8:12](http://www.biblija.net/biblija.cgi?m=Johannes+8%3A12&id18=1&pos=0&l=nl&set=10))? Klopt, maar _in_ Jezus _zijn_ wij ook licht ([Ef. 5:8](http://www.biblija.net/biblija.cgi?m=Efezi%EBrs+5%3A8&id18=1&pos=0&l=nl&set=10))! Doordat wij in Jezus zijn en de Vader en Jezus bij ons wonen ([Jh. 14:23](http://www.biblija.net/biblija.cgi?m=Johannes+14%3A23&id18=1&pos=0&l=nl&set=10)) is het licht dat wij zijn en uitstralen ook Zijn licht.
 
-![Afbeelding van twee spaarlampen](http://www.geloofinjewerk.nl/images/2009/07/spaarlampen.jpg)
+![Afbeelding van twee spaarlampen](/images/2009/07/spaarlampen.jpg)
 
 Het licht kan minder fel worden of doven. Net als de rank die niet aan de wijnstok blijft geen vrucht kan dragen. Het is belangrijk om in Jezus te blijven, dan blijft Hij ook in ons ([Jh. 15:4](http://www.biblija.net/biblija.cgi?m=Johannes+15%3A4&id18=1&pos=0&l=nl&set=10)), dan zal je veel vrucht dragen, veel licht uitstralen ([Jh. 15:5](http://www.biblija.net/biblija.cgi?m=Johannes+15%3A5&id18=1&pos=0&l=nl&set=10)). Vergelijk het met het verschil tussen een 15 Watt lamp en een 60 Watt lamp. In Jezus tijd waren er nog geen gloeilampen, Hij had het over olielampen. Om die brandend te houden moest je ervoor zorgen dat er genoeg olie in zat, die moest je telkens bijvullen. Denk ook aan de gelijkenis van de wijze en de dwaze maagden ([Mt. 25:1-13](http://www.biblija.net/biblija.cgi?m=Matte%FCs+25%3A1-13&id18=1&pos=0&l=nl&set=10)).
 
@@ -41,7 +41,7 @@ Terug naar Matteüs 5: “opdat ze jullie goede daden zien en eer bewijzen aan j
 
 Wat je doet komt voort uit wie je bent. Als jij licht bent ben je goed ("God zag dat het licht goed was" [Gn. 1:4](http://www.biblija.net/biblija.cgi?m=Efezi%EBrs+5%3A13&id18=1&pos=0&l=nl&set=10)) en doe je goede daden ([Mt. 5:16](http://www.biblija.net/biblija.cgi?m=Matte%FCs+5%3A16&id18=1&pos=0&l=nl&set=10)). Zonder licht kun je geen goede daden voortbrengen. Een boom herken je aan de vruchten. Een slechte boom kan geen goede vruchten voortbrengen en een goede boom geen slechte vruchten ([Mt. 7:17-18](http://www.biblija.net/biblija.cgi?m=Matte%FCs+7%3A17-18&id18=1&pos=0&l=nl&set=10)). Voordat je over je daden en vruchten (wat je doet en wat je voortbrengt) nadenkt is het belangrijk om eerst na te denken over wie je bent.
 
-![Afbeelding van een tros druiven](http://www.geloofinjewerk.nl/images/2009/07/druiven.jpg)
+![Afbeelding van een tros druiven](/images/2009/07/druiven.jpg)
 
 Je bent gemaakt om goede daden te doen, om goede vruchten voort te brengen. God heeft daar al een voorbereiding voor gedaan en Hij heeft het mogelijk gemaakt: “Want zijn maaksel zijn wij, in Christus Jezus geschapen om goede werken te doen, die God tevoren bereid heeft, opdat wij daarin zouden wandelen.” [Ef. 2:10 NBG](http://www.biblija.net/biblija.cgi?m=Efezi%EBrs+2%3A10&id16=1&pos=0&l=nl&set=10).
 

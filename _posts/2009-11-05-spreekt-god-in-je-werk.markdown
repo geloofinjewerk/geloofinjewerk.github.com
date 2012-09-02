@@ -3,7 +3,7 @@ comments: true
 date: 2009-11-05 08:00:15
 excerpt: 'Zou God verstand hebben van ons werk? Zo ja, kan Hij ons daarin dan ook
   helpen? Spreekt Hij over werkgerelateerde zaken? '
-image: http://www.geloofinjewerk.nl/images/2009/11/Oordopjes.jpg
+image: /images/2009/11/Oordopjes.jpg
 layout: post
 slug: spreekt-god-in-je-werk
 title: Spreekt God in je werk?

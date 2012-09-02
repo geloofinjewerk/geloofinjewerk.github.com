@@ -3,7 +3,7 @@ comments: true
 date: 2009-11-02 08:00:48
 excerpt: Een maïsplant ontwikkelt twee soorten wortels. Wil je weten wat dit met bomen,
   met jou, met je geloof en met je werk te maken heeft?
-image: http://www.geloofinjewerk.nl/images/2009/10/Hoge-boom.jpg
+image: /images/2009/10/Hoge-boom.jpg
 layout: post
 slug: hoge-bomen-blijven-stevig-staan
 title: Hoge bomen blijven stevig staan

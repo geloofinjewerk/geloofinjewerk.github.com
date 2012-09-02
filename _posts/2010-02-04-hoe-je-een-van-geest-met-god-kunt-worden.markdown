@@ -5,7 +5,7 @@ excerpt: Soms zou het zo fijn zijn om precies te weten wat God zegt, wat op Zijn
   is. Om Hem zo goed te kennen dat je aan een half woord genoeg hebt. Om één van geest
   met Hem te zijn. In dit artikel leg ik je uit wat het betekent om met God verenigd
   te worden, zodat je één van geest met Hem kunt zijn.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: hoe-je-een-van-geest-met-god-kunt-worden
 title: Hoe je één van geest met God kunt worden
@@ -44,7 +44,7 @@ _“Zo komt het dat een man zich losmaakt van zijn vader en moeder en zich hecht
 _
 Net zoals man en vrouw één van lichaam worden in een huwelijk, zo worden jij en God één geest!
 
-![](http://www.geloofinjewerk.nl/images/2010/02/Trouwringen.jpg)
+![](/images/2010/02/Trouwringen.jpg)
 
 
 

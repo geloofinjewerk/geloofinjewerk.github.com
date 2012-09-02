@@ -4,7 +4,7 @@ date: 2009-08-31 08:00:18
 excerpt: Jezus was naar de hemel gegaan en de discipelen verspreidden het evangelie
   razendsnel. Dagelijks werd de groep gelovigen groter, gemeenten werden gesticht,
   als een lopend vuurtje ging het evangelie rond. Het geheim? De Heilige Geest.
-image: http://www.geloofinjewerk.nl/images/2009/09/Bavianen.jpg
+image: /images/2009/09/Bavianen.jpg
 layout: post
 slug: vrijmoedigheid
 title: Vrijmoedigheid

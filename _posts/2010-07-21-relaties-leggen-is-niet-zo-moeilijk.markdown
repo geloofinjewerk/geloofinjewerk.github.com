@@ -4,7 +4,7 @@ date: 2010-07-21 10:00:31
 excerpt: 'Relaties leggen met collega''s is heel eenvoudig als je deze vier principes
   gebruikt: wees oprecht geïnteresseerd, gebruik passende hulpmiddelen, stel relaties
   boven werkzaamheden en verras de ander.'
-image: http://www.geloofinjewerk.nl/images/2010/06/pony.jpg
+image: /images/2010/06/pony.jpg
 layout: post
 slug: relaties-leggen-is-niet-zo-moeilijk
 title: Relaties leggen is niet zo moeilijk

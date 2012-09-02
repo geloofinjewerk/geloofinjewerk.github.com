@@ -2,7 +2,7 @@
 comments: true
 date: 2010-12-01 10:00:23
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/11/rolmaat.jpg
+image: /images/2010/11/rolmaat.jpg
 layout: post
 slug: gods-meetlat
 title: Gods meetlat voor werkende christenen

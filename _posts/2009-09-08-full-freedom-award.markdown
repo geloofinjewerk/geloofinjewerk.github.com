@@ -4,7 +4,7 @@ date: 2009-09-08 08:00:51
 excerpt: Ieder jaar worden de Four Freedoms Awards uitgereikt aan mensen met een bijzondere
   bijdrage aan de vier vrijheden. Als kind van God heb je dankzij Jezus volledige
   vrijheid.
-image: http://www.geloofinjewerk.nl/images/2009/09/Vrijheid.jpg
+image: /images/2009/09/Vrijheid.jpg
 layout: post
 slug: full-freedom-award
 title: Full Freedom Award

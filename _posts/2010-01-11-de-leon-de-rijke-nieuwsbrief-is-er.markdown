@@ -26,7 +26,7 @@ Als je je aanmeldt ontvang je één keer per maand een e-mail met:
 
 
 	
-  * **Trends en ontwikkelingen** - Interessante trends op het gebied van [christen zijn op je werk](http://www.geloofinjewerk.nl/christen-zijn-op-je-werk/) en belangrijke nieuwsberichten (zoals de lerares in Engeland die ontslagen werd omdat ze voor een kindje wilde bidden).
+  * **Trends en ontwikkelingen** - Interessante trends op het gebied van [christen zijn op je werk](/christen-zijn-op-je-werk/) en belangrijke nieuwsberichten (zoals de lerares in Engeland die ontslagen werd omdat ze voor een kindje wilde bidden).
 
 	
   * **Exclusieve kijkjes achter de schermen** - Waar ben ik mee bezig? Welke opdrachten komen eraan? Hoe loopt het? Dit soort vragen krijg ik vaak, maar kan ik niet op mijn website beantwoorden. Wel in de nieuwsbrief!
@@ -94,7 +94,7 @@ _Maar, wacht, er is meer! Als u nu bestelt…_ (heb ik altijd al eens willen roe
 
 
 Na 7 jaar stapje voor stapje te ontdekken wie ik ben in Christus en na intensieve bijbelstudie de laatste 6 maanden is het tijd om al deze kennis en ontdekkingen voor jou beschikbaar te maken.
-[![De Spiegel](http://www.geloofinjewerk.nl/images/2010/01/De-Spiegel.png)](http://eepurl.com/gtlw)
+[![De Spiegel](/images/2010/01/De-Spiegel.png)](http://eepurl.com/gtlw)
 Naast de diverse spreekbeurten, presentaties en workshops die ik hierover verzorg ben ik een e-book aan het schrijven!
 
 Het e-book heet De Spiegel en is een voortvloeisel uit de [serie De Spiegel](/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/). 

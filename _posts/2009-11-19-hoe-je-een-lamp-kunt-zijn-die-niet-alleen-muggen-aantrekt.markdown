@@ -4,7 +4,7 @@ date: 2009-11-19 08:00:33
 excerpt: “Jullie zijn het licht in de wereld.” zei Jezus. Ik laat je zien wat het
   betekent om het licht in de wereld te zijn. Er is één ding wat niet veel mensen
   weten.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: hoe-je-een-lamp-kunt-zijn-die-niet-alleen-muggen-aantrekt
 title: Hoe je een lamp kunt zijn die niet alleen muggen aantrekt

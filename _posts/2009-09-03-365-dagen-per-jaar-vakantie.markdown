@@ -4,7 +4,7 @@ date: 2009-09-03 08:00:25
 excerpt: In je dagelijks leven is een patroon ontstaan van afspraken, verwachtingen
   en verantwoordelijkheden. Als je leeft vanuit de waarheid dat Jezus alles heeft
   volbracht heb je het hele jaar door een vakantiegevoel.
-image: http://www.geloofinjewerk.nl/images/2009/09/Vakantie.jpg
+image: /images/2009/09/Vakantie.jpg
 layout: post
 slug: 365-dagen-per-jaar-vakantie
 title: 365 dagen per jaar vakantie
@@ -32,7 +32,7 @@ Wat blijft er dan nog over? Dankbaarheid, liefde, aanbidding. Leef vanuit dankba
 
 Als je leert leven vanuit deze waarheid, dan ga je leren om alles vanuit aanbidding te doen. Zelfs de vakantiespullen opruimen of je mail bijwerken. Ook daarmee kun je God eren.
 
-![Afbeelding van wijn stokbrood en kruidenkaas](http://www.geloofinjewerk.nl/images/2009/09/painvinetboursin.jpg)  Als God geen verwachtingen van je heeft, zou je jezelf dan nog verwachtingen opleggen? Natuurlijk, wat je zegt moet je ook doen (“Laat jullie ja ja zijn, en jullie nee nee”, [Mt. 5:37](http://www.biblija.net/biblija.cgi?m=Matteus+5%3A37&id18=1&pos=0&l=nl&set=10)), afspraken moet je nakomen. Maar het wordt allemaal wel een stuk relaxter.
+![Afbeelding van wijn stokbrood en kruidenkaas](/images/2009/09/painvinetboursin.jpg)  Als God geen verwachtingen van je heeft, zou je jezelf dan nog verwachtingen opleggen? Natuurlijk, wat je zegt moet je ook doen (“Laat jullie ja ja zijn, en jullie nee nee”, [Mt. 5:37](http://www.biblija.net/biblija.cgi?m=Matteus+5%3A37&id18=1&pos=0&l=nl&set=10)), afspraken moet je nakomen. Maar het wordt allemaal wel een stuk relaxter.
 
 Je dagelijks leven gaat meer lijken op vakantie en minder op het patroon van verwachtingen. Je leeft vanuit de rust, de intimiteit met God, de wetenschap dat jij niks kunt toevoegen aan wat Hij al heeft gedaan. Je doet alles tot eer van God, om Hem te aanbidden. Je hebt 365 dagen per jaar vakantie.
 

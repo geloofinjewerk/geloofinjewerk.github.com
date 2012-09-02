@@ -3,7 +3,7 @@ comments: true
 date: 2010-09-01 10:00:18
 excerpt: De maatschappij vraagt om ambitieuze mensen die voor de top gaan. In de kerk
   leer je jezelf af te leggen en je kruis op je te nemen. Is die kloof te overbruggen?
-image: http://www.geloofinjewerk.nl/images/2010/08/wolkenkrabbers.jpg
+image: /images/2010/08/wolkenkrabbers.jpg
 layout: post
 slug: ambitie-the-sky-is-the-limit
 title: 'Ambitie: the sky is the limit?!'
@@ -39,7 +39,7 @@ Is die kloof te overbruggen?
 
 
 
-In de documentaire [Alles wat we wilden](http://www.geloofinjewerk.nl/2010/08/25/alles-wat-we-wilden/) komen diverse jonge ambitieuze mensen aan het woord die hun worsteling met ambitie laten zien. Emiel raakt hier denk ik de kern van de drijfveer achter veel ambities.
+In de documentaire [Alles wat we wilden](/2010/08/25/alles-wat-we-wilden/) komen diverse jonge ambitieuze mensen aan het woord die hun worsteling met ambitie laten zien. Emiel raakt hier denk ik de kern van de drijfveer achter veel ambities.
 
 
 
@@ -57,7 +57,7 @@ Er zijn geen beperkingen, je mag alles zijn wat je wilt. Dat is bevrijdend en be
 
 
 
-![Afbeelding van een wolkenkrabber](http://www.geloofinjewerk.nl/images/2010/08/wolkenkrabber.jpg)
+![Afbeelding van een wolkenkrabber](/images/2010/08/wolkenkrabber.jpg)
 
 Dat werkt ook weer andere angsten in de hand:
 
@@ -78,7 +78,7 @@ Dat werkt ook weer andere angsten in de hand:
 ## Het verlangen om invloed te hebben
 
 
-Mike Bickle schrijft in [De zeven verlangens van het hart](http://www.geloofinjewerk.nl/bickle-zeven-verlangens/) dat ons hart het verlangen heeft om invloed te hebben:
+Mike Bickle schrijft in [De zeven verlangens van het hart](/bickle-zeven-verlangens/) dat ons hart het verlangen heeft om invloed te hebben:
 
 
 
@@ -92,14 +92,14 @@ De vraag is wat we met dat verlangen doen.
 
 Willen we onze dromen bereiken en onze ambities uitleven om dat verlangen te vervullen? Of onderdrukken we dat verlangen onder het mom van “sterven aan jezelf” en zien we niet dat God dit verlangen in ons heeft gelegd? Dat is de centrale vraag bij ambitie en carrière maken.
 
-![Afbeelding van een kantoorgebouw met een weerspiegeling van de lucht in de ramen](http://www.geloofinjewerk.nl/images/2010/08/kantoorenlucht.jpg)
+![Afbeelding van een kantoorgebouw met een weerspiegeling van de lucht in de ramen](/images/2010/08/kantoorenlucht.jpg)
 
 
 
 ## Ambitie is geworteld in identiteit
 
 
-Ten diepste heeft het alles te maken met je identiteit: als [slaaf](http://www.geloofinjewerk.nl/2010/01/07/5-symptomen-oudste-zoon-syndroom/) zul je ieder verlangen naar invloed en iedere ambitie direct de kop indrukken omdat het geen ruimte mag krijgen in je leven. Als [zoon/dochter van God](http://www.geloofinjewerk.nl/2010/01/07/5-symptomen-oudste-zoon-syndroom/) zul je merken dat je verlangens en ambities steeds meer in lijn komen met Gods verlangens en ambities.
+Ten diepste heeft het alles te maken met je identiteit: als [slaaf](/2010/01/07/5-symptomen-oudste-zoon-syndroom/) zul je ieder verlangen naar invloed en iedere ambitie direct de kop indrukken omdat het geen ruimte mag krijgen in je leven. Als [zoon/dochter van God](/2010/01/07/5-symptomen-oudste-zoon-syndroom/) zul je merken dat je verlangens en ambities steeds meer in lijn komen met Gods verlangens en ambities.
 
 Als zoon/dochter van God onderzoek je de verlangens die God in je hart heeft gelegd en krijg je zin om met je dromen aan de slag te gaan. Je leeft met het verlangen om de allereerste opdracht van God aan de mens te vervullen:
 

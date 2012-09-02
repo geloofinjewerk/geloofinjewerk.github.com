@@ -4,7 +4,7 @@ date: 2009-11-09 08:00:09
 excerpt: Je identiteit heeft invloed op je gedrag en je omgang met situaties. In de
   Serie De Spiegel leg ik jouw identiteit in Christus uit zodat je een Bijbels beeld
   ontwikkelt van wie je bent in Hem!
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: kijk-eens-wat-vaker-in-de-spiegel
 title: Kijk eens wat vaker in de spiegel!

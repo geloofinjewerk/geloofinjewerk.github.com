@@ -4,7 +4,7 @@ date: 2010-08-11 10:00:52
 excerpt: Richtinggevende gebeurtenissen in je leven kun je markeren. In het Oude Testament
   zetten ze een steen rechtop of maakten ze een steenhoop. Zo kun jij ook een monument
   oprichten om belangrijke gebeurtenissen te herinneren.
-image: http://www.geloofinjewerk.nl/images/2010/08/gedenksteen.jpg
+image: /images/2010/08/gedenksteen.jpg
 layout: post
 slug: richt-je-eigen-werkmonument-op
 title: Richt je eigen werkmonument op

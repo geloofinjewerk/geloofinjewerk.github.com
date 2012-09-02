@@ -4,7 +4,7 @@ date: 2010-09-15 10:00:18
 excerpt: De Heilige Geest is niet alleen een Geest van openbaring, maar ook van wijsheid.
   Hij gaat niet alleen met je mee naar je werk om je Gods stem te doen verstaan, maar
   ook om je wijsheid te geven.
-image: http://www.geloofinjewerk.nl/images/2010/09/duif.jpg
+image: /images/2010/09/duif.jpg
 layout: post
 slug: wat-doet-de-heilige-geest-op-je-werk
 title: Wat doet de Heilige Geest op je werk?
@@ -36,7 +36,7 @@ Wat doet de Heilige Geest op je werk?
 
 In mijn beleving was de Heilige Geest altijd degene die ervoor zorgde dat ik Gods stem kon verstaan. Wanneer ik de Geest in relatie met mijn werk probeerde te brengen, was ik dan ook voornamelijk op het verstaan van Gods stem gericht.
 
-Mijn vragen aan hem waren dan meestal in de trant van: “Wat wilt U dat ik nu doe? Wat is Uw plan voor vandaag?” etc. (Zijstapje: ik wist toen nog niet dat die vragen met name voortkwamen uit een [slaafse mentaliteit en identiteit](http://www.geloofinjewerk.nl/2010/01/07/5-symptomen-oudste-zoon-syndroom/).)
+Mijn vragen aan hem waren dan meestal in de trant van: “Wat wilt U dat ik nu doe? Wat is Uw plan voor vandaag?” etc. (Zijstapje: ik wist toen nog niet dat die vragen met name voortkwamen uit een [slaafse mentaliteit en identiteit](/2010/01/07/5-symptomen-oudste-zoon-syndroom/).)
 
 De Heilige Geest was voor mij vooral een Geest van openbaring.
 
@@ -58,7 +58,7 @@ Opeens kon ik terugkijken naar allerlei beslissingen en zien dat de Geest daar b
 
 Wijsheid in moeilijke situaties, wijsheid in leuke situaties, wijsheid bij het vlot trekken van vastgelopen projecten, wijsheid bij het sturen van goedlopende projecten. Wijsheid in de omgang met collega’s, klanten, leveranciers etc. Kortom: wijsheid in mijn werk.
 
-![Afbeelding van koning Salomo](http://www.geloofinjewerk.nl/images/2010/09/wijsheidsalomo.jpg)
+![Afbeelding van koning Salomo](/images/2010/09/wijsheidsalomo.jpg)
 
 
 

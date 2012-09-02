@@ -3,7 +3,7 @@ comments: true
 date: 2009-09-28 08:00:08
 excerpt: Daniël moest knielen voor een afgodsbeeld. Hij deed dit niet, met alle gevolgen
   van dien. Zijn wij ook zo standvastig?
-image: http://www.geloofinjewerk.nl/images/2009/09/Kladblokje.jpg
+image: /images/2009/09/Kladblokje.jpg
 layout: post
 slug: vier-vragen-voor-vandaag
 title: Vier vragen voor vandaag

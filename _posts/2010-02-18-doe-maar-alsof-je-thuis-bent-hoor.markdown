@@ -3,7 +3,7 @@ comments: true
 date: 2010-02-18 08:00:45
 excerpt: 'Soms denken we wel eens dat we bij God op bezoek mogen, dat we gasten van
   Hem zijn. Maar we hoeven niet op bezoek te gaan bij Hem want we mogen bij Hem wonen! '
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: doe-maar-alsof-je-thuis-bent-hoor
 title: '"Doe maar alsof je thuis bent hoor!" - God'

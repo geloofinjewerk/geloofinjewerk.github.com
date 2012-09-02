@@ -4,7 +4,7 @@ date: 2011-02-09 10:00:34
 excerpt: Wereldwijd breekt het koninkrijk van God door en tegelijkertijd wordt het
   tegengewerkt. Zowel collectief als individueel breekt het door en wordt het tegengewerkt.
   Laat het in jouw leven en in jouw werksituatie ook doorbreken met kracht!
-image: http://www.geloofinjewerk.nl/images/2011/02/kroon-serie-koninkrijk-deel-3.jpg
+image: /images/2011/02/kroon-serie-koninkrijk-deel-3.jpg
 layout: post
 slug: koninkrijk-kracht
 title: Het koninkrijk van kracht
@@ -17,7 +17,7 @@ tags:
 - kracht
 ---
 
-_Dit is het derde deel in onze serie over het [Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/)._
+_Dit is het derde deel in onze serie over het [Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/)._
 
 Heb je dit vers wel eens gelezen? Matteüs 11:12:
 
@@ -76,4 +76,4 @@ Wereldwijd breekt het koninkrijk van God door en tegelijkertijd wordt het tegeng
 
 **Vraag:** Ervaar je de kracht van het koninkrijk van God in je werk of ervaar je juist tegenstand?
 
-Lees ook deel vier in de serie over het [Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/): [Het koninkrijk van heerlijkheid](http://www.geloofinjewerk.nl/2011/02/16/koninkrijk-heerlijkheid/).
+Lees ook deel vier in de serie over het [Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/): [Het koninkrijk van heerlijkheid](/2011/02/16/koninkrijk-heerlijkheid/).

@@ -6,7 +6,7 @@ excerpt: De 7 Mountain Message of Mandate is een openbaring die Bill Bright en L
   als je een natie wilt veranderen, je moet zorgen dat je aan de toppen van deze 7
   bergen “jouw mensen” hebt zitten. Op die manier heb je geen meerderheid nodig om
   een land te veranderen.
-image: http://www.geloofinjewerk.nl/images/2010/04/bergen.jpg
+image: /images/2010/04/bergen.jpg
 layout: post
 slug: 7-mountain-message-een-introductie
 title: '7 Mountain Message: een introductie'
@@ -66,7 +66,7 @@ Op een dag in augustus 1975 waren Bill Bright (oprichter Campus Crusade for Chri
 
 Deze 7 gebieden zijn voor te stellen als zeven bergen waaruit een natie bestaat:
 
-![Afbeelding van de 7 Mountain Message](http://www.geloofinjewerk.nl/images/2010/05/7-mountain-message.jpg)
+![Afbeelding van de 7 Mountain Message](/images/2010/05/7-mountain-message.jpg)
 
 Aan de top van deze bergen wordt het denken (in het Engels hebben ze daar een beter woord voor: mind) van een natie gevormd. De belangrijkste uitwerking hiervan is dat als je een natie wilt veranderen, je moet zorgen dat je aan de toppen van deze bergen “jouw mensen” hebt zitten. Op die manier heb je geen meerderheid nodig om een land te veranderen.
 

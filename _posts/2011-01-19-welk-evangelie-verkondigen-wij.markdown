@@ -39,4 +39,4 @@ Als je het begin van de vier evangeliën leest dan zie je dat Jezus het koninkri
 
 Even een vraagje: heb jij het ook over het koninkrijk van God als je getuigt/evangeliseert?
 
-Volgende week wil ik uitgebreid ingaan op dit Evangelie van het Koninkrijk. Denk in de tussentijd eens na over het Evangelie dat jij verkondigt. [Lees het eerste deel van de serie over het Evangelie van het Koninkrijk.](http://www.geloofinjewerk.nl/2011/01/26/stelletje-dooie-honden/)
+Volgende week wil ik uitgebreid ingaan op dit Evangelie van het Koninkrijk. Denk in de tussentijd eens na over het Evangelie dat jij verkondigt. [Lees het eerste deel van de serie over het Evangelie van het Koninkrijk.](/2011/01/26/stelletje-dooie-honden/)

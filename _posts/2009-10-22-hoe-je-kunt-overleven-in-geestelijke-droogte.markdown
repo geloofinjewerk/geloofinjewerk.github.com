@@ -4,7 +4,7 @@ date: 2009-10-22 08:00:17
 excerpt: Soms is God ver weg, bid je tegen het plafond, is er geen spoortje van Hem
   op je werk te vinden en kun je in je bijbel alleen maar stofhappen. In deze post
   laat ik je zien hoe je in tijden van geestelijke droogte kunt overleven.
-image: http://www.geloofinjewerk.nl/images/2009/10/327939900_a752bcfdc5_m.jpg
+image: /images/2009/10/327939900_a752bcfdc5_m.jpg
 layout: post
 slug: hoe-je-kunt-overleven-in-geestelijke-droogte
 title: Hoe je kunt overleven in geestelijke droogte

@@ -4,7 +4,7 @@ date: 2011-02-23 10:00:49
 excerpt: De hele maand maart verschijnen er geen nieuwe artikelen op Geloof in je
   werk. Deze maand neem ik de tijd om opgebouwd te worden, even afstand te nemen,
   een spreekbeurt voor te bereiden en om gewoon wat dingen op een rij te zetten.
-image: http://www.geloofinjewerk.nl/images/2011/02/stilstudiecentrum.jpg
+image: /images/2011/02/stilstudiecentrum.jpg
 layout: post
 slug: bijscholing-rust-afstand
 title: Bijscholing, rust en afstand
@@ -32,13 +32,13 @@ In de tussentijd kun je je te goed doen aan alle artikelen die al op Geloof in j
 
 
 	
-  * [Serie De Spiegel (identiteit in Christus)](http://www.geloofinjewerk.nl/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/)
+  * [Serie De Spiegel (identiteit in Christus)](/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/)
 
 	
-  * [Serie Integriteit](http://www.geloofinjewerk.nl/2010/04/19/3-niveaus-van-integriteit/)
+  * [Serie Integriteit](/2010/04/19/3-niveaus-van-integriteit/)
 
 	
-  * [Serie Evangelie van het Koninkrijk](http://www.geloofinjewerk.nl/2011/01/19/welk-evangelie-verkondigen-wij/)
+  * [Serie Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/)
 
 
 Tot over een maand!

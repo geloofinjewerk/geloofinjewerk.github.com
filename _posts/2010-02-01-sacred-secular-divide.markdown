@@ -6,7 +6,7 @@ excerpt: De Sacred-Secular Divide is een onbewust denkpatroon dat een scheiding 
   wereld. In dit artikel leg ik uit wat de Sacred-Secular Divide is, welke oorzaken
   het heeft en wat de gevolgen er van zijn. Daarnaast laat ik je zien hoe jij persoonlijk
   dit probleem kunt oplossen
-image: http://www.geloofinjewerk.nl/images/2010/02/SSD.jpg
+image: /images/2010/02/SSD.jpg
 layout: post
 slug: sacred-secular-divide
 title: Het probleem van de Sacred-Secular Divide (en hoe jij het kunt oplossen)
@@ -74,7 +74,7 @@ De Sacred-Secular Divide veroorzaakt in de praktijk een geloof dat alleen voor d
 
 Je hebt je leven: baan, huis, vrouw, kinderen, hobby en een huisdier (in willekeurige volgorde van belangrijkheid). Vervolgens komt daar bovenop, om je leven compleet te maken, je geloof. Dit noem ik het Appeltaart Model: je leven is de taart en die maak je compleet door het toefje slagroom dat geloof heet. Je geloof werkt niet door in ieder gebied van je leven.
 
-![](http://www.geloofinjewerk.nl/images/2010/02/Appeltaart.jpg)
+![](/images/2010/02/Appeltaart.jpg)
 
 
 

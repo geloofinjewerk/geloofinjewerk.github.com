@@ -4,7 +4,7 @@ date: 2009-10-08 08:00:11
 excerpt: 'Vroeger was mijn droom dat alle christenen één dag per week minder gingen
   werken, dat is nu veranderd, het is nu bijna andersom geworden: dat alle christenen
   een dag per week méér gaan werken.'
-image: http://www.geloofinjewerk.nl/images/2009/10/Werken.jpg
+image: /images/2009/10/Werken.jpg
 layout: post
 slug: mijn-droom-voor-het-lichaam-van-christus
 title: Mijn droom voor het lichaam van Christus

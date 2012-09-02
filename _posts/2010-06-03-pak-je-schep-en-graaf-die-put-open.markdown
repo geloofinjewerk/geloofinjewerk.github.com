@@ -3,7 +3,7 @@ comments: true
 date: 2010-06-03 08:00:37
 excerpt: Isaak groef de waterputten van zijn vader Abraham weer open. Misschien zijn
   er op jouw werk ook wel waterputten die je kunt opengraven?
-image: http://www.geloofinjewerk.nl/images/2010/05/waterput.jpg
+image: /images/2010/05/waterput.jpg
 layout: post
 slug: pak-je-schep-en-graaf-die-put-open
 title: Pak je schep en graaf die put open!

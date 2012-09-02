@@ -2,7 +2,7 @@
 comments: true
 date: 2010-10-13 10:00:19
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/10/doekvoorgezicht.jpg
+image: /images/2010/10/doekvoorgezicht.jpg
 layout: post
 slug: doek-voor-je-gezicht
 title: Heb jij een doek voor je gezicht?
@@ -51,7 +51,7 @@ Je denkt dat je werk niets met de eeuwigheid te maken heeft, dus geen waarde voo
 
 	
   * **Geestelijk werk is belangrijker dan seculier werk**
- Je denkt dat je werk minder belangrijk is dan het geestelijk werk van een voorganger, zendeling of evangelist. Dit is de [Sacred-Secular Divide (SSD)](http://www.geloofinjewerk.nl/ssd/).
+ Je denkt dat je werk minder belangrijk is dan het geestelijk werk van een voorganger, zendeling of evangelist. Dit is de [Sacred-Secular Divide (SSD)](/ssd/).
 
 	
   * **Werk heeft niets met het Koninkrijk te maken**
@@ -59,7 +59,7 @@ Je denkt dat je werk niets met de eeuwigheid te maken heeft, dus geen waarde voo
 
 
 
-Vaak komen deze denkpatronen voort uit een verkeerd beeld van [de oorsprong van werk](http://www.geloofinjewerk.nl/2009/10/12/de-oorsprong-van-werk/). Deze denkpatronen, doeken voor je gezicht, zorgen ervoor dat anderen de glans op je gezicht niet kunnen zien.
+Vaak komen deze denkpatronen voort uit een verkeerd beeld van [de oorsprong van werk](/2009/10/12/de-oorsprong-van-werk/). Deze denkpatronen, doeken voor je gezicht, zorgen ervoor dat anderen de glans op je gezicht niet kunnen zien.
 
 Onbewust houd je je geloof en je relatie met God volledig buiten je werk. Onbewust doe je een doek voor je gezicht. Daardoor zien de mensen om je heen niet dat je straalt omdat je een ontmoeting met de Heer hebt gehad.
 
@@ -88,7 +88,7 @@ De waarheden tegenover onze eerdere voorbeelden:
 
 	
   * **Wérk is wel belangrijk voor God**
- Hij is zelfs de Bedenker ervan! Zie [De oorsprong van werk: Is werk vòòr of ná de zondeval ontstaan?](http://www.geloofinjewerk.nl/2009/10/12/de-oorsprong-van-werk/).
+ Hij is zelfs de Bedenker ervan! Zie [De oorsprong van werk: Is werk vòòr of ná de zondeval ontstaan?](/2009/10/12/de-oorsprong-van-werk/).
 
 	
   * **Werk heeft wél waarde voor God **
@@ -100,11 +100,11 @@ Je bediening in de gemeente komt meestal voort uit [Mat. 28:19](http://www.bibli
 
 	
   * **Er is geen scheiding tussen geestelijk en seculier werk**
- Zie [Sacred-Secular Divide: een introductie](http://www.geloofinjewerk.nl/ssd/).
+ Zie [Sacred-Secular Divide: een introductie](/ssd/).
 
 	
   * **Werk heeft alles met het Koninkrijk te maken **
-Door werk komt de aarde onder Zijn heerschappij, Zijn koningschap wordt gebracht. Zie [7 Mountain Message: een introductie](http://www.geloofinjewerk.nl/2010/05/06/7-mountain-message-een-introductie/).
+Door werk komt de aarde onder Zijn heerschappij, Zijn koningschap wordt gebracht. Zie [7 Mountain Message: een introductie](/2010/05/06/7-mountain-message-een-introductie/).
 
 
 

@@ -5,7 +5,7 @@ excerpt: Op situaties waarbij de integriteit in het gedrang komt kun je soms wel
   soms geen invloed uitoefenen. Je functiekaders vormen een eenvoudige manier om te
   bepalen wat binnen jouw cirkel van invloed of binnen jouw cirkel van betrokkenheid
   valt.
-image: http://www.geloofinjewerk.nl/images/2010/04/integriteit-deel-2.jpg
+image: /images/2010/04/integriteit-deel-2.jpg
 layout: post
 slug: hoe-je-integer-kunt-zijn-zonder-je-baan-te-verliezen
 title: Hoe je integer kunt zijn zonder je baan te verliezen
@@ -55,7 +55,7 @@ Ok, nu we dat [herhaald](/2010/04/19/3-niveaus-van-integriteit/) hebben gaan we 
 
 Stephen R. Covey schrijft in zijn boek “[De zeven eigenschappen van effectief leiderschap](/7-eigenschappen-covey/)” (vertaling van “[The seven habits of highly effective people](/7-habits/)”) over een cirkel van betrokkenheid:
 
-![Afbeelding van de cirkel van betrokkenheid](http://www.geloofinjewerk.nl/images/2010/04/cirkel-betrokkenheid.png)
+![Afbeelding van de cirkel van betrokkenheid](/images/2010/04/cirkel-betrokkenheid.png)
 
 Buiten die cirkel bevindt zich alles waar jij je niet betrokken bij voelt (bijv. [de staatsschuld van Griekenland](/2010/04/22/wat-we-kunnen-leren-van-griekenland/), de oorlog in Irak etc.), binnen die cirkel bevindt zich alles waar je je wel betrokken bij voelt (bijv. je gezondheid, je kinderen etc.).
 
@@ -71,7 +71,7 @@ Met de situaties die je binnen de cirkel van betrokkenheid hebt geplaatst gaan w
 
 Covey gaat door en plaatst een cirkel van invloed binnen de cirkel van betrokkenheid:
 
-![Afbeelding van de cirkel van invloed](http://www.geloofinjewerk.nl/images/2010/04/cirkel-invloed.png)
+![Afbeelding van de cirkel van invloed](/images/2010/04/cirkel-invloed.png)
 
 Buiten de cirkel van invloed bevindt zich alles waar je je wel betrokken bij voelt, maar geen invloed op hebt. Binnen de cirkel van invloed bevindt zich alles waar je je betrokken bij voelt en waar je _ook_ invloed op kunt uitoefenen.
 
@@ -106,7 +106,7 @@ Het is belangrijk om je bewust te zijn van jouw functiekaders. Dit zijn namelijk
 
 Beslissingen nemen waartoe je niet bevoegd bent (hoe goed bedoeld ook), zaken proberen te veranderen die buiten jouw verantwoordelijkheid liggen: daardoor zou zelfs je baan op de tocht kunnen komen te staan.
 
-![Afbeelding van een cirkel van betrokkenheid met daarbinnen de cirkel van invloed](http://www.geloofinjewerk.nl/images/2010/04/cirkel-invloed-betrokkenheid.png)
+![Afbeelding van een cirkel van betrokkenheid met daarbinnen de cirkel van invloed](/images/2010/04/cirkel-invloed-betrokkenheid.png)
 
 
 
@@ -117,7 +117,7 @@ In de meeste organisaties geldt dat naarmate je hoger in de organisatie zit, je 
 
 Om je cirkel van invloed te vergroten kun je dus je best doen om hogerop te komen.
 
-Omdat dat met name op de lange termijn gericht is gaan we ook kijken naar situaties die je niet zelf kunt beïnvloeden omdat je daar geen verantwoordelijkheid/bevoegdheid over hebt, maar die je wel graag zou willen veranderen. In het [volgende deel](http://www.geloofinjewerk.nl/2010/05/03/4-uitgangspunten-bij-integriteitsvraagstukken/) van deze serie over integriteit gaan we kijken naar uitgangspunten voor verandering van zaken die niet onder jouw directe invloed liggen.
+Omdat dat met name op de lange termijn gericht is gaan we ook kijken naar situaties die je niet zelf kunt beïnvloeden omdat je daar geen verantwoordelijkheid/bevoegdheid over hebt, maar die je wel graag zou willen veranderen. In het [volgende deel](/2010/05/03/4-uitgangspunten-bij-integriteitsvraagstukken/) van deze serie over integriteit gaan we kijken naar uitgangspunten voor verandering van zaken die niet onder jouw directe invloed liggen.
 
 Aan de hand van concrete praktijkvoorbeelden geven we je praktische handvatten om situaties waarbij integriteit in het gedrang komt aan de kaak te stellen en te veranderen.
 

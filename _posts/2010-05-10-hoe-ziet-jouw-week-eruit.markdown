@@ -5,7 +5,7 @@ excerpt: Op de website van InsideWork kwam ik een heel interessant werkblad tege
   wat je kunt invullen om te zien hoe jouw week eruit ziet. Aan de hand van dat overzicht
   maak je vervolgens een taartdiagram waar je dan natuurlijk interessante vragen over
   kunt stellen.
-image: http://www.geloofinjewerk.nl/images/2010/04/taartdiagram.jpg
+image: /images/2010/04/taartdiagram.jpg
 layout: post
 slug: hoe-ziet-jouw-week-eruit
 title: Hoe ziet jouw week eruit?

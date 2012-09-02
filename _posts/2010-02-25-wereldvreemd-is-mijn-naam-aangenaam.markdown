@@ -3,7 +3,7 @@ comments: true
 date: 2010-02-25 08:00:43
 excerpt: 72% van de niet-christenen vind dat christenen wereldvreemd zijn. Wat doen
   we fout?
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: wereldvreemd-is-mijn-naam-aangenaam
 title: '"Wereldvreemd is mijn naam, aangenaam"'
@@ -53,7 +53,7 @@ Hieraan kun je denken als de Bijbel spreekt over het vreemdeling zijn. Feitelijk
 
 Als je in dit denken doorschiet ga je jezelf als christen buiten de wereld plaatsen en wordt je wereldvreemd.
 
-![Afwassen](http://www.geloofinjewerk.nl/images/2010/02/afwassen.jpg)
+![Afwassen](/images/2010/02/afwassen.jpg)
 
 
 

@@ -55,4 +55,4 @@ Kijk de documentaire ‘Alles wat we wilden’:
 [![Get Microsoft Silverlight](http://embed.player.omroep.nl/sle/downloadsilverlight.jpg)](http://go.microsoft.com/fwlink/?LinkID=124807)  
 [Of bekijk de flash versie.](http://player.omroep.nl?aflID=11257996)
 
-([Klik hier](http://www.geloofinjewerk.nl/2010/08/25/alles-wat-we-wilden/) als je de video niet kunt zien of bekijk hem op [Uitzending Gemist](http://player.omroep.nl/?aflID=11257996).)
+([Klik hier](/2010/08/25/alles-wat-we-wilden/) als je de video niet kunt zien of bekijk hem op [Uitzending Gemist](http://player.omroep.nl/?aflID=11257996).)

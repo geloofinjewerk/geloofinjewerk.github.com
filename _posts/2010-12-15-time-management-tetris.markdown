@@ -2,7 +2,7 @@
 comments: true
 date: 2010-12-15 10:00:31
 excerpt:  
-image: http://www.geloofinjewerk.nl/images/2010/12/raceklok.jpg
+image: /images/2010/12/raceklok.jpg
 layout: post
 slug: time-management-tetris
 title: Time management is Tetris
@@ -46,7 +46,7 @@ Een andere manier van kijken naar tijd is noodzakelijk: de tijd komt naar je toe
 ## Time management is Tetris
 
 
-![](http://www.geloofinjewerk.nl/images/2010/12/tetris.jpg)Het is net als bij [Tetris](http://nl.wikipedia.org/wiki/Tetris): de blokken komen vanzelf naar beneden, jij moet ervoor zorgen dat je er klaar voor bent. Zo komt de toekomst naar je toe. Je kunt wel vooruit werken, plannen maken en anticiperen op wat komt (de blokken draaien), maar je kunt ze nooit tegenhouden of inhalen!
+![](/images/2010/12/tetris.jpg)Het is net als bij [Tetris](http://nl.wikipedia.org/wiki/Tetris): de blokken komen vanzelf naar beneden, jij moet ervoor zorgen dat je er klaar voor bent. Zo komt de toekomst naar je toe. Je kunt wel vooruit werken, plannen maken en anticiperen op wat komt (de blokken draaien), maar je kunt ze nooit tegenhouden of inhalen!
 
 Eigenlijk is time management gewoon een spelletje Tetris: ervoor zorgen dat de blokken (tijd, afspraken, onderdelen van je leven) in elkaar passen zodat ze kunnen verdwijnen en ervoor zorgen dat de stapel blokken niet te hoog wordt. Zorgen dat je klaar bent om de volgende blokken te ontvangen.
 

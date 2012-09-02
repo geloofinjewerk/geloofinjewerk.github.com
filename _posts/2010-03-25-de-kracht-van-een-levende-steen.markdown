@@ -5,7 +5,7 @@ excerpt: Als christen ben je een van de levende stenen die gebruikt worden voor 
   bouw van een geestelijke tempel. Dit betekent niet dat iedere christen in hetzelfde
   keurslijf moet passen, iedereen is verschillend. Ook kun je op je werk een levende
   steen zijn en niet alleen in de plaatselijke gemeente.
-image: http://www.geloofinjewerk.nl/images/2009/11/De-Spiegel.jpg
+image: /images/2009/11/De-Spiegel.jpg
 layout: post
 slug: de-kracht-van-een-levende-steen
 title: De kracht van een levende steen
@@ -37,7 +37,7 @@ Als levende steen ben je bedoeld om ingezet te worden bij de bouw van een geeste
 
 De geestelijke tempel waar we het nu over hebben is collectiever van aard. Naast het feit dat je zelf een [tempel van God](/2010/01/28/ontdek-de-verborgen-schat-van-gods-tempel/) bent, is ook het Lichaam van Christus als geheel bedoeld als een tempel waar God kan wonen.
 
-![Stenen muur](http://www.geloofinjewerk.nl/images/2010/03/muur.jpg)
+![Stenen muur](/images/2010/03/muur.jpg)
 
 
 
