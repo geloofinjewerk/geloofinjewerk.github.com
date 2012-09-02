@@ -7,7 +7,9 @@ layout: default
 		<a href="{{ post.url }}" rel="bookmark" title="Permanente link naar {{ post.title }}">{{ post.title }}</a>
 	</h2>
 	<span>{{ post.date | date: '%d-%m-%Y' }}</span>
+	{% if post.excerpt %}
 	<p>
 		{{ post.excerpt }}
 	</p>
+	{% endif %}
 {% endfor %}
