@@ -9,7 +9,9 @@ layout: default
 	{{ content }}
 </div>
 <div class="categories">
-	{% for category in page.categories %}
-		<a href="/categorie/{{ category | urlize }}">{{ category }}</a>
-	{% endfor %}
+	<p>Categorie: 
+		{% for category in page.categories %}
+			<a href="/categorie/{{ category | urlize }}">{{ category }}</a>
+		{% endfor %}
+	</p>
 </div>
