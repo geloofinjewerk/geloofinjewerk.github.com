@@ -1,0 +1,4 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title.html
+category_title_prefix: "Categorie: "
+category_dir: categorie
