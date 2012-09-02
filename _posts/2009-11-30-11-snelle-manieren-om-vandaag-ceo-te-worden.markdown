@@ -44,7 +44,7 @@ Hier gaan we:
 	
   6. Los een conflict op door je eigen fout te **erkennen** (ongeacht wat de ander heeft gedaan).
 
-![Succes](http://www.geloofinjewerk.nl/images/2009/11/Succes-300x199.jpg)	
+![Succes](http://www.geloofinjewerk.nl/images/2009/11/Succes.jpg)	
   7. Geef iedereen die je tegenkomt een welgemeend **compliment**.
 
 	
