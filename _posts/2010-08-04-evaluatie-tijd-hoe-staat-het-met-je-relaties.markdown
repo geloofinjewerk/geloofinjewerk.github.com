@@ -52,7 +52,7 @@ Dit is wat je moet doen:
 
 
 	
-  * [Download de Relatie Evaluatie (PDF)](http://www.geloofinjewerk.nl/images/2010/08/Relatie-evaluatie.pdf) en vul hem in.
+  * [Download de Relatie Evaluatie (PDF)](http://www.geloofinjewerk.nl/files/2010/08/Relatie-evaluatie.pdf) en vul hem in.
 
 	
   * Neem hier ruim de tijd voor en formuleer concrete actiepunten om je relaties te verbeteren en/of te verdiepen.

@@ -66,7 +66,7 @@ Je werk is de plek waar je de meeste uren die je wakker bent doorbrengt. Werk ve
 Daarom is dit dus zo’n belangrijke gelegenheid! Hoe zorg je er dan voor dat jouw kerk/gemeente ook meedoet?
 
 	
-  1. Download [de flyer](http://www.geloofinjewerk.nl/images/2010/09/Flyer_A6_107x150-v11-front.pdf), print hem uit en deel hem uit.
+  1. Download [de flyer](http://www.geloofinjewerk.nl/files/2010/09/Flyer_A6_107x150-v11-front.pdf), print hem uit en deel hem uit.
 
 	
   2. Mail de flyer naar je voorganger/oudste/kerkenraad (en/of mail [de link naar dit artikel](http://www.geloofinjewerk.nl/2010/09/22/6-redenen-themazondag/)).

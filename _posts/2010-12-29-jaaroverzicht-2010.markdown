@@ -50,7 +50,7 @@ Uit iedere maand neem ik één bijzonder moment:
   * **Juli:** Het meest bijzondere moment van 2010: de [geboorte van onze dochter Joya](http://www.geloofinjewerk.nl/2010/07/07/geboren-joya/). Inmiddels is ze alweer bijna een half jaar en het gaat allemaal erg goed.
 
 	
-  * **Augustus:** Eén van de spreekbeurten van dit jaar stond in augustus op de agenda. In evangeliegemeente De Lichtstad heb ik gesproken over het fundament van christen zijn op je werk. Een stevig fundament waar je tijdens je werk op kunt staan. De spreekbeurt kun je [downloaden en beluisteren](http://www.geloofinjewerk.nl/images/2010/12/Fundament-van-christen-zijn-op-je-werk-Leon-de-Rijke.mp3).
+  * **Augustus:** Eén van de spreekbeurten van dit jaar stond in augustus op de agenda. In evangeliegemeente De Lichtstad heb ik gesproken over het fundament van christen zijn op je werk. Een stevig fundament waar je tijdens je werk op kunt staan. De spreekbeurt kun je [downloaden en beluisteren](http://www.geloofinjewerk.nl/files/2010/12/Fundament-van-christen-zijn-op-je-werk-Leon-de-Rijke.mp3).
 
 	
   * **September:** September was op Geloof in je werk de maand van de ambitie. Naar aanleiding van een documentaire verscheen een artikel over [de vraag van de maatschappij om ambitieuze mensen](http://www.geloofinjewerk.nl/2010/09/01/ambitie-the-sky-is-the-limit/) en een artikel over [als je geen droom hebt of geen keus kunt maken](http://www.geloofinjewerk.nl/2010/09/08/ambitie-wat-als-je-geen-droom-hebt/).

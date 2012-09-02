@@ -23,7 +23,7 @@ Het is 18 november, 18.00 uur. De eerste deelnemers druppelen binnen in het bijg
 
 Om 18.15 uur is iedereen voorzien van koffie, thee en een badge en open ik de maaltijd. Ik heb het voorrecht om de avond aan elkaar te praten. Onder het genot van heerlijke broodjes maakt iedereen gezellig kennis met elkaar. “Waar kom je vandaan?” “Eindhoven.” “Veldhoven.” “Nijmegen.” “Maastricht.” “Wow!”
 
-Als de broodjes op zijn houdt Aart van der Maarl ([voorganger CGK Eindhoven](http://www.cgkehv.nl/)) een inleiding over het thema “Hoe kan de kerk helpen om christen te zijn op het werk?”. [Download hier de PDF-versie van de lezing.](http://www.geloofinjewerk.nl/images/2009/11/Lezing-Aart-vd-Maarl.pdf)
+Als de broodjes op zijn houdt Aart van der Maarl ([voorganger CGK Eindhoven](http://www.cgkehv.nl/)) een inleiding over het thema “Hoe kan de kerk helpen om christen te zijn op het werk?”. [Download hier de PDF-versie van de lezing.](http://www.geloofinjewerk.nl/files/2009/11/Lezing-Aart-vd-Maarl.pdf)
 
 
 
