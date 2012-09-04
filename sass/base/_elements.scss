@@ -1,8 +1,13 @@
-$sizes-base-font: 16;
+//
+// Elements.scss
+// ---------------------------------------------------------------------------
+// Contains the default element styling
+//
 
 html {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
 	font-size: 0.875em; // 14px
+	line-height: 1.75;
 }
 
 h1 {

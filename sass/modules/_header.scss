@@ -1,0 +1,29 @@
+//
+// Header.scss
+// ---------------------------------------------------------------------------
+// Contains the header styles
+//
+
+@import "compass/css3";
+
+.header {
+	padding: 14px 24px;
+}
+
+.page-title {
+	float: left;
+	width: 500px;
+	margin-bottom: 0;
+	> a {
+		color: $color-primary-contrast;
+		text-decoration: none;
+		@include text-shadow(1px 1px 7px $color-shadow-default);
+	}
+}
+
+.page-subtitle {
+	float: right;
+	margin-bottom: 0;
+	color: $color-primary-contrast;
+	line-height: 49px;
+}

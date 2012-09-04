@@ -1,8 +1,18 @@
+//
+// Layout.scss
+// ---------------------------------------------------------------------------
+// Contains the structure/layout styling
+//
+
 @import "compass/css3";
 
 .container {
 	width: 980px;
 	margin: 0 auto;
+}
+
+.header {
+	background-color: $color-primary;
 }
 
 .main,
@@ -16,4 +26,19 @@
 
 .sidebar {
 	width: 33%;
+}
+
+// Clear float
+.cf:before,
+.cf:after {
+	content: " ";
+	display: table;
+}
+
+.cf:after {
+	clear: both;
+}
+
+.cf {
+	*zoom: 1;
 }

@@ -54,6 +54,7 @@ img {
 html {
   font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
   font-size: 0.875em;
+  line-height: 1.75;
 }
 
 h1 {
@@ -78,6 +79,10 @@ h1, h2, h3 {
   margin: 0 auto;
 }
 
+.header {
+  background-color: #336699;
+}
+
 .main,
 .sidebar {
   display: -moz-inline-stack;
@@ -94,4 +99,40 @@ h1, h2, h3 {
 
 .sidebar {
   width: 33%;
+}
+
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.cf {
+  *zoom: 1;
+}
+
+.header {
+  padding: 14px 24px;
+}
+
+.page-title {
+  float: left;
+  width: 500px;
+  margin-bottom: 0;
+}
+.page-title > a {
+  color: white;
+  text-decoration: none;
+  text-shadow: 1px 1px 7px #111111;
+}
+
+.page-subtitle {
+  float: right;
+  margin-bottom: 0;
+  color: white;
+  line-height: 49px;
 }
