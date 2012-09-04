@@ -1,3 +1,21 @@
-@import "normalize";
-@import "base";
+//
+// Style.scss
+// ---------------------------------------------------------------------------
+// Here is where everything comes together
+//
+
+// Base
+// ----
+@import "base/variables";
+@import "base/normalize";
+@import "base/elements";
+
+// Layout
+// ------
 @import "layout";
+
+// Modules
+// -------
+@import "modules/article";
+@import "modules/header";
+@import "modules/lists";
