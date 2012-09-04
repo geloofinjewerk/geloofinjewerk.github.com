@@ -177,3 +177,7 @@ a:hover {
   color: white;
   line-height: 49px;
 }
+
+.list-item {
+  margin-bottom: 20px;
+}
