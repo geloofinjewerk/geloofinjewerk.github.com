@@ -42,17 +42,6 @@ a:hover {
 }
 
 /* ==========================================================================
-   Typography
-   ========================================================================== */
-/*
- * Addresses `h1` font sizes within `section` and `article` in Firefox 4+,
- * Safari 5, and Chrome.
- */
-h1 {
-  font-size: 2em;
-}
-
-/* ==========================================================================
    Embedded content
    ========================================================================== */
 /*
@@ -60,4 +49,49 @@ h1 {
  */
 img {
   border: 0;
+}
+
+html {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  font-size: 0.875em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
+
+.main,
+.sidebar {
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: top;
+  *vertical-align: auto;
+  zoom: 1;
+  *display: inline;
+}
+
+.main {
+  width: 66%;
+}
+
+.sidebar {
+  width: 33%;
 }
