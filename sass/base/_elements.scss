@@ -8,6 +8,11 @@ html {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
 	font-size: 0.875em; // 14px
 	line-height: 1.75;
+	color: $color-text-default;
+}
+
+body {
+	background-color: $color-primary;
 }
 
 h1 {
@@ -16,6 +21,9 @@ h1 {
 
 h2 {
 	font-size: 1.6em;
+	a {
+		color: $color-text-default;
+	}
 }
 
 h3 {
@@ -25,4 +33,19 @@ h3 {
 h1, h2, h3 {
 	margin-top: 0;
 	margin-bottom: 20px;
+	font-weight: normal;
+}
+
+a {
+	color: $color-primary;
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+.no-bullets {
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }

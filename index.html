@@ -3,14 +3,18 @@ layout: default
 title: Welkom
 ---
 <h1>Laatste artikelen</h1>
+<div class="list">
 {% for post in site.posts %}
-	<h2>
-		<a href="{{ post.url }}" rel="bookmark" title="Permanente link naar {{ post.title }}">{{ post.title }}</a>
-	</h2>
-	<span>{{ post.date | date: '%d-%m-%Y' }}</span>
-	{% if post.excerpt %}
-	<p>
-		{{ post.excerpt }}
-	</p>
+	<div class="list-item">
+		<h2 class="article-title">
+			<a href="{{ post.url }}" class="article-title-link" rel="bookmark" title="Permanente link naar {{ post.title }}">{{ post.title }}</a>
+		</h2>
+		<span class="article-date">{{ post.date | date: '%d-%m-%Y' }}</span>
+		{% if post.excerpt %}
+		<p>
+			{{ post.excerpt }}
+		</p>
 	{% endif %}
+	</div>
 {% endfor %}
+</div>
