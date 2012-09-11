@@ -1,3 +1,4 @@
+# encoding: utf-8
 # Jekyll category page generator.
 # Source: http://recursive-design.com/projects/jekyll-plugins/
 # Modified to allow for spaces in category names: they get substituted by underscores.
@@ -95,7 +96,7 @@ module Jekyll
       if self.layouts.key? 'category_index'
         dir = self.config['category_dir'] || 'categories'
         self.categories.keys.each do |category|
-          category_lower = category.downcase.gsub(/\s/, '_')
+          category_lower = category.downcase.gsub(/\s/, '_').gsub(/é/, 'e')
           self.write_category_index(File.join(dir, category_lower), category)
         end
         
@@ -131,7 +132,7 @@ module Jekyll
     # Returns string
     def category_links(categories)
       categories = categories.sort!.map do |item|
-        item_lower = item.downcase.gsub(/\s/, '_')
+        item_lower = item.downcase.gsub(/\s/, '_').gsub(/é/, 'e')
         '<a href="/categorie/'+item_lower+'/">'+item+'</a>'
       end
       
