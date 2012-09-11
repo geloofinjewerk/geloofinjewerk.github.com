@@ -96,7 +96,7 @@ module Jekyll
       if self.layouts.key? 'category_index'
         dir = self.config['category_dir'] || 'categories'
         self.categories.keys.each do |category|
-          category_lower = category.downcase.gsub(/\s/, '_').gsub(/é/, 'e')
+          category_lower = category.downcase.gsub(/\s/, '_').gsub(/[éè]/, 'e')
           self.write_category_index(File.join(dir, category_lower), category)
         end
         
@@ -132,7 +132,7 @@ module Jekyll
     # Returns string
     def category_links(categories)
       categories = categories.sort!.map do |item|
-        item_lower = item.downcase.gsub(/\s/, '_').gsub(/é/, 'e')
+        item_lower = item.downcase.gsub(/\s/, '_').gsub(/[éè]/, 'e')
         '<a href="/categorie/'+item_lower+'/">'+item+'</a>'
       end
       

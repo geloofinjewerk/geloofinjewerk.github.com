@@ -6,7 +6,7 @@
 module Jekyll
   module UrlizeFilter
     def urlize(str)
-      str.downcase.gsub(/\s/, '_').gsub(/é/, 'e')
+      str.downcase.gsub(/\s/, '_').gsub(/[éè]/, 'e')
     end
   end
 end

@@ -10,7 +10,7 @@ module Jekyll
       categories = context.registers[:site].categories.keys
       categories.sort.each do |category|
         posts_in_category = context.registers[:site].categories[category].size
-        category_lower = category.downcase.gsub(/\s/, '_').gsub(/é/, 'e')
+        category_lower = category.downcase.gsub(/\s/, '_').gsub(/[éè]/, 'e')
         html << "<li class='category'><a href='/categorie/#{category_lower}/'>#{category} (#{posts_in_category})</a></li>\n"
       end
       html
