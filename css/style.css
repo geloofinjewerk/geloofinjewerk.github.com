@@ -91,6 +91,13 @@ a:hover {
   text-decoration: underline;
 }
 
+blockquote {
+  margin-left: 20px;
+  padding-left: 14px;
+  border-left: 1px solid #dddddd;
+  color: #777777;
+}
+
 .no-bullets {
   margin: 0;
   padding: 0;
