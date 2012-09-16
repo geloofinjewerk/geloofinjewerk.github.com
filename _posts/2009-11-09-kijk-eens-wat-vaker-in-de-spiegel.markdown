@@ -109,6 +109,3 @@ Deze serie artikelen is de basis geweest voor mijn e-book De Spiegel. In het e-b
 	
   * [E-book De Spiegel](/despiegel/)
 
-
-
-Wil jij ook (meer) ontdekken wie je bent in Christus? Wat je ware identiteit is? [Abonneer je dan nú GRATIS op Geloof in je werk!](/abonneren/)

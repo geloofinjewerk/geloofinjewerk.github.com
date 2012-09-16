@@ -41,7 +41,7 @@ Ik wist het ook niet. Ik merkte dat de lijstjes met Bijbelteksten niet genoeg wa
 
 Zeven jaar lang heb ik stapje voor stapje ontdekt wie ik ben in Christus. En ik ben er nog niet, want het ontdekken van je identiteit in Christus is een proces voor heel je leven.
 
-Na deze ontdekkingen en intensieve bijbelstudie heb ik een e-book geschreven over jouw identiteit in Christus. Misschien [ken je het al](/despiegel/), misschien heb je het [preview hoofdstuk](/nieuwsbrief/) gelezen. Hoe dan ook, het heet De Spiegel en is een uitleg van jouw identiteit in Christus.
+Na deze ontdekkingen en intensieve bijbelstudie heb ik een e-book geschreven over jouw identiteit in Christus. Misschien [ken je het al](/despiegel/), misschien heb je het preview hoofdstuk gelezen. Hoe dan ook, het heet De Spiegel en is een uitleg van jouw identiteit in Christus.
 
 Deze maand staat in het teken van christen zijn op je werk. Ik zie ernaar uit dat veel mensen hierdoor veranderd worden. Je identiteit in Christus is de basis van christen zijn op je werk. Ik verlang ernaar dat veel mensen De Spiegel in handen krijgen en ontdekken wie ze zijn in Christus. Ik verlang ernaar dat jij ook leert te leven vanuit je nieuwe identiteit.
 
@@ -49,8 +49,6 @@ Daarom heb ik besloten om de prijs van De Spiegel te verlagen, voor de hele maan
 
 Nogmaals: je identiteit in Christus is de basis van christen zijn op je werk. Daarom kost De Spiegel gedurende de hele maand november niet € 14,95 maar **slechts € 9,95**:
 
-[![Klik hier om e-book De Spiegel aan je winkelmand toe te voegen!](/wp-content/themes/thesis/custom/images/koop_nu_knop.png)](http://www.pumbo.nl/koopnu.php?bID=261&qty=1&type=2&action=public)
-
-Wil je eerst een preview hoofdstuk lezen? Meld je dan aan voor de [Geloof in je werk Nieuwsbrief](/nieuwsbrief/). Maar wacht niet te lang, want november is zo voorbij.
+[![Klik hier om e-book De Spiegel aan je winkelmand toe te voegen!](/images/koop_nu_knop.png)](http://www.pumbo.nl/koopnu.php?bID=261&qty=1&type=2&action=public)
 
 [Koop De Spiegel nu voor slechts € 9,95](http://www.pumbo.nl/koopnu.php?bID=261&qty=1&type=2&action=public) en ontdek wie je bent in Christus!

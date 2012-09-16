@@ -16,7 +16,7 @@ tags:
 - zelfbeeld
 ---
 
-_Deel 1 in de serie "[Vier elementen van christen zijn op je werk](/vier-elementen/)"._
+_Deel 1 in de serie "[Vier elementen van christen zijn op je werk](/2009/08/20/identiteit/)"._
 
 Wat je doet komt voort uit wie je bent. Je identiteit is het antwoord op de vraag: wie ben ik? Je identiteit is hoe je naar jezelf kijkt. Misschien is je identiteit wel synoniem aan je zelfbeeld. Wie ben jij? Ben jij een zondaar, een heilige, een gelovige, een kerkganger, een volgeling van Jezus, een zoekende, een mislukkeling, een loser, een overwinnaar of ...?
 
@@ -31,3 +31,5 @@ Wie je bent is ook wat je uitstraalt. Hoe meer je inziet wie je in Jezus bent, h
 [**Serie De Spiegel**](/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/) gaat helemaal over je identiteit in Christus. Ontdek wie je bent in Hem! Het begin van de serie vind je hier: [Kijk eens wat vaker in de spiegel!](/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/)
 
 Heb jij een goed beeld van je [identiteit in Christus](/identiteit/)?
+
+Deel 2 in de serie Vier elementen van christen zijn op je werk vind je [hier](/2009/08/24/relatie/).

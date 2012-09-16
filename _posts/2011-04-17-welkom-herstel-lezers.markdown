@@ -32,18 +32,4 @@ Aan de rechterkant vind je je toegangspoort tot diverse categorieën aan artikel
 	
   * [Serie Evangelie van het Koninkrijk](/2011/01/19/welk-evangelie-verkondigen-wij/)
 
-
-Wil je eerst meer weten over [wie ik ben](/over-mij/), [wat ik doe](/diensten/) of wil je [contact met mij opnemen](/contact/)? Dat kan natuurlijk ook.
-En als je denkt "Hier wil ik meer van!", dan zijn daar twee mogelijkheden voor:
-
-
-
-	
-  1. [Je abonneert je op de artikelen](/abonneren/).
-
-	
-  2. [Je abonneert je op de Geloof in je werk Nieuwsbrief](/nieuwsbrief/) (en ontvangt gratis een hoofdstuk van mijn [e-book De Spiegel](/despiegel/)).
-
-
-
 Veel zegen!

@@ -29,7 +29,7 @@ Uit iedere maand neem ik één bijzonder moment:
 
 
 	
-  * **Januari:** In januari werd de [Geloof in je werk Nieuwsbrief](/nieuwsbrief/) geboren. Inmiddels zijn er meer dan 100 abonnees die iedere maand gratis een e-mail ontvangen met trends & ontwikkelingen, persoonlijke verhalen van mij, interessante artikelen en op de hoogte gehouden worden van evenementen. Ben jij al geabonneerd op de Geloof in je werk Nieuwsbrief? [Klik hier voor meer informatie.](/nieuwsbrief/)
+  * **Januari:** In januari werd de Geloof in je werk Nieuwsbrief geboren. Inmiddels zijn er meer dan 100 abonnees die iedere maand gratis een e-mail ontvangen met trends & ontwikkelingen, persoonlijke verhalen van mij, interessante artikelen en op de hoogte gehouden worden van evenementen.
 
 	
   * **Februari:** Deze maand heb ik een uitgebreid en diepgaand artikel geschreven over de Sacred-Secular Divide, het denkbeeld dat een scheiding maakt tussen heilig en seculier, geestelijk en natuurlijk, tussen de kerk en de wereld. Een persoonlijk hoogtepunt voor mij omdat ik eindelijk eens al mijn gedachten daarover helder op papier kon zetten. Je vindt het hier: [Het probleem van de Sacred-Secular Divide (en hoe jij het kunt oplossen)](/2010/02/01/sacred-secular-divide/).

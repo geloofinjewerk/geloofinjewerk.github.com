@@ -25,6 +25,5 @@ In onderstaande video laat ik je zien hoe het met de ontwikkeling van het e-book
 
 Heb je de survey over het preview hoofdstuk nog niet ingevuld? [Klik dan hier om naar de survey te gaan](http://www.surveymonkey.com/s/VJDQGW2).
 
-Heb je het preview hoofdstuk nog niet ontvangen? [Klik dan hier om je aan te melden voor de Geloof in je werk Nieuwsbrief](/nieuwsbrief/).
 
 De [serie De Spiegel](/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/) vind je [hier](/2009/11/09/kijk-eens-wat-vaker-in-de-spiegel/).

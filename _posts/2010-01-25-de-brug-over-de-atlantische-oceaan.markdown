@@ -50,8 +50,6 @@ De taalbarrière is natuurlijk wel een probleem. Omdat mijn site in het Nederlan
 
 Vanuit het High Calling Blogs Network wil ik interessante en relevante artikelen en kennis naar deze kant van de oceaan halen. In Amerika is heel veel geschreven waar wij ook van kunnen profiteren.
 
-Een belangrijke manier om deze informatie met jou te delen is via de [Geloof in je werk Nieuwsbrief](/nieuwsbrief/). Eén keer per maand stuur ik een e-mail met o.a. links naar waardevolle resources, zoals relevante artikelen uit het High Calling Blogs Network.
-
-Heb jij je nog niet aangemeld voor de Geloof in je werk Nieuwsbrief? [Meld je dan nú aan](http://eepurl.com/gtlw) en ontvang gratis een preview hoofdstuk van mijn nieuwe e-book De Spiegel!
+Een belangrijke manier om deze informatie met jou te delen is via de Geloof in je werk Nieuwsbrief. Eén keer per maand stuur ik een e-mail met o.a. links naar waardevolle resources, zoals relevante artikelen uit het High Calling Blogs Network.
 
 Ik zie ernaar uit om de brug over de Atlantische Oceaan te gebruiken om Amerika en Europa van elkaar te laten profiteren. Voor zover dat binnen mijn mogelijkheden ligt natuurlijk ;-).

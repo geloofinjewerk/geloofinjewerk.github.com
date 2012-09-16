@@ -78,7 +78,7 @@ Dat werkt ook weer andere angsten in de hand:
 ## Het verlangen om invloed te hebben
 
 
-Mike Bickle schrijft in [De zeven verlangens van het hart](/bickle-zeven-verlangens/) dat ons hart het verlangen heeft om invloed te hebben:
+Mike Bickle schrijft in [De zeven verlangens van het hart](http://www.bol.com/nl/p/nederlandse-boeken/de-zeven-verlangens-van-het-hart/1001004006423862/index.html) dat ons hart het verlangen heeft om invloed te hebben:
 
 
 

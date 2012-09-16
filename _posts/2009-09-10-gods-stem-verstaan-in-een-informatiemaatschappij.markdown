@@ -41,7 +41,7 @@ Een paar gedachten:
   3. Gods tweets en krabbels vind je in de Bijbel. Door in zijn woord te lezen hoor je wat Hij tegen je zegt. “_Mijn plan met jullie staat vast – spreekt de HEER. Ik heb jullie geluk voor ogen, niet jullie ongeluk: ik zal je een hoopvolle toekomst geven._” ([Jer. 29:11](http://www.biblija.net/biblija.cgi?m=Jeremia+29%3A11&id18=1&pos=0&l=nl&set=10)), “_Hij zal je beschermen met zijn vleugels, onder zijn wieken vind je een toevlucht, zijn trouw is een veilig schild._” ([Ps. 91:4](http://www.biblija.net/biblija.cgi?m=Psalm+91%3A4&id18=1&pos=0&l=nl&set=10)) en “_En houd dit voor ogen: ik ben met jullie, alle dagen, tot aan de voltooiing van deze wereld._” ([Mat. 28:20](http://www.biblija.net/biblija.cgi?m=Matte%FCs+28%3A20&id18=1&id16=1&pos=0&l=nl&set=10&idp0=19&idp1=17)).
 
 
-[caption id="attachment_211" align="aligncenter" width="300" caption=" "][![Cover MACHTIG MOOI!](/images/2009/09/cover-machtigmooi0-300x216.jpg)](http://www.machtigmooi.com)[/caption]
+[![Cover MACHTIG MOOI!](/images/2009/09/cover-machtigmooi0-300x216.jpg)](http://www.machtigmooi.com)
 
 
 

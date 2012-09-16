@@ -73,13 +73,11 @@ Zoals je ziet is er veel behoefte aan artikelen over passie/motivatie, getuigen/
 
 Je zult hier de komende tijd zeker artikelen over zien verschijnen! Afgelopen maandag is reeds een [artikel over getuigen/evangeliseren](/2010/06/07/12-manieren-om-te-getuigen-zonder-je-baan-te-verliezen/) verschenen (zonder dat ik de uitkomsten van het lezersonderzoek had gezien!). Volgende week verschijnt een artikel over omgaan met gezag en ik heb ook een aantal artikelen over relaties (met collega’s) in de planning staan.
 
-Als je nog niet geabonneerd bent op de artikelen: [hier kun je je gratis aanmelden](/abonneren/). Dan mis je niks!
-
 
 ## De Geloof in je werk Nieuwsbrief
 
 
-De lezers die ook geabonneerd zijn op de [Geloof in je werk Nieuwsbrief](/nieuwsbrief/) hebben tevens een aantal vragen beantwoord over de nieuwsbrief. Alle lezers die meededen aan dit onderdeel van het lezersonderzoek hadden een positieve algemene indruk van de Geloof in je werk Nieuwsbrief.
+De lezers die ook geabonneerd zijn op de Geloof in je werk Nieuwsbrief hebben tevens een aantal vragen beantwoord over de nieuwsbrief. Alle lezers die meededen aan dit onderdeel van het lezersonderzoek hadden een positieve algemene indruk van de Geloof in je werk Nieuwsbrief.
 
 Alle onderdelen van de Nieuwsbrief werden als ‘interessant’ bestempeld, waarbij er een paar lezers zeiden dat de Resources ‘niet interessant’ waren. Ik ben nog aan het nadenken of ik hier veranderingen in ga doorvoeren. Ik hou je op de hoogte via de nieuwsbrief!
 

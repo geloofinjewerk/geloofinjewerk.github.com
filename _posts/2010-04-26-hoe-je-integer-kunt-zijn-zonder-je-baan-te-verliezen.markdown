@@ -53,7 +53,7 @@ Ok, nu we dat [herhaald](/2010/04/19/3-niveaus-van-integriteit/) hebben gaan we 
 ## Cirkel van betrokkenheid
 
 
-Stephen R. Covey schrijft in zijn boek “[De zeven eigenschappen van effectief leiderschap](/7-eigenschappen-covey/)” (vertaling van “[The seven habits of highly effective people](/7-habits/)”) over een cirkel van betrokkenheid:
+Stephen R. Covey schrijft in zijn boek “[De zeven eigenschappen van effectief leiderschap](http://www.bol.com/nl/p/nederlandse-boeken/de-zeven-eigenschappen-van-effectief-leiderschap/1001004008140517/index.html)” (vertaling van “[The seven habits of highly effective people](http://www.bol.com/nl/p/engelse-boeken/the-7-habits-of-highly-effective-people/1001004002335450/index.html)”) over een cirkel van betrokkenheid:
 
 ![Afbeelding van de cirkel van betrokkenheid](/images/2010/04/cirkel-betrokkenheid.png)
 

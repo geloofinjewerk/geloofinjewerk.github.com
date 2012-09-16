@@ -16,7 +16,7 @@ tags:
 - zelfbeeld
 ---
 
-_Deel 3 in de serie "[Vier elementen van christen zijn op je werk](/vier-elementen/)"._
+_Deel 3 in de serie "[Vier elementen van christen zijn op je werk](/2009/08/20/identiteit/)"._
 
 Autoriteit is een woord met een negatieve bijsmaak, het brengt iets van hiërarchie, gezagsstructuren/verhoudingen en niet-gelijk-zijn met zich mee. Toch bedoel ik dat helemaal niet. Autoriteit gaat over mogelijkheden, over wat je mag doen, over de ruimte die je hebt gekregen.
 
@@ -25,3 +25,5 @@ In de eerste plaats is dat jezelf zijn. Dit betekent dat je je niet anders hoeft
 Daarnaast heb je als discipel van Jezus autoriteit gekregen: om zieken te genezen, boze geesten uit te drijven, om gebrokenen van hart te verbinden, ketenen te verbreken etc.
 
 Heb jij een beeld van jouw autoriteit?
+
+Deel 4 in de serie Vier elementen van christen zijn op je werk vind je [hier](/2009/08/31/vrijmoedigheid/).

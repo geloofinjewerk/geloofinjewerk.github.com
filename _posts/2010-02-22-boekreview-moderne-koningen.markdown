@@ -21,6 +21,7 @@ tags:
 
 In onderstaande video vind je mijn review van Moderne Koningen, een boek van John S. Garfield en Harold R. Eberle.
 
+<iframe width="594" height="334" src="http://www.youtube-nocookie.com/embed/ogdjuLz1Chk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 (Klik [hier](/2010/02/22/boekreview-moderne-koningen/) als je de video niet kunt zien of [bekijk de video op YouTube](http://www.youtube.com/watch?v=ogdjuLz1Chk).)
 
