@@ -2,3 +2,4 @@ markdown: rdiscount
 permalink: /:year/:month/:day/:title/
 category_title_prefix: "Categorie: "
 category_dir: categorie
+exclude: config.rb, sass/, .sass-cache/
