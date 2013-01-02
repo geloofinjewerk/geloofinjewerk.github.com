@@ -20,4 +20,4 @@ Tot vanavond 20.00 uur kun je De Spiegel nog aanschaffen voor **€12,95**.
 
 Vanaf 20.01 uur is De Spiegel verkrijgbaar tegen de **normale prijs van €14,95**.
 
-**Profiteer nú** van de speciale introductieprijs! [**Klik hier om e-book De Spiegel te kopen.**](http://www.pumbo.nl/boek/despiegel)
+**Profiteer nú** van de speciale introductieprijs! [**Klik hier om e-book De Spiegel te kopen.**](http://www.boekenbestellen.nl/boek/despiegel/)

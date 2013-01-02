@@ -31,7 +31,7 @@ Door te weten wie je écht bent ga je sterker in je schoenen staan, zul je een g
 
 De Spiegel is beschikbaar voor **slechts € 14,95:**
 
-<a href="http://www.pumbo.nl/koopnu.php?bID=261&qty=1&type=2&action=public" target="_blank"><img src="/images/koop_nu_knop.png" width="150" height="60" alt="Koop nu!"/></a>
+<a href="http://www.boekenbestellen.nl/boek/despiegel/" target="_blank"><img src="/images/koop_nu_knop.png" width="150" height="60" alt="Koop nu!"/></a>
 
 Wat je doet komt voort uit wie je bent. Het is dus belangrijk om te weten wie je bent, want dat zal je gedrag automatisch veranderen. Je uitstraling komt ook voort uit je identiteit. Je uitstraling verandert dus ook automatisch!
 
@@ -39,4 +39,4 @@ De Spiegel is geen gewoon gedrukt boek maar een e-book dat je kunt downloaden. N
 
 E-book de Spiegel kost **slechts € 14,95:**
 
-<a href="http://www.pumbo.nl/koopnu.php?bID=261&qty=1&type=2&action=public" target="_blank"><img src="/images/koop_nu_knop.png" width="150" height="60" alt="Koop nu!"/></a>
+<a href="http://www.boekenbestellen.nl/boek/despiegel/" target="_blank"><img src="/images/koop_nu_knop.png" width="150" height="60" alt="Koop nu!"/></a>

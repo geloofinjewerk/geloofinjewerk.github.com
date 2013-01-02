@@ -49,6 +49,6 @@ Daarom heb ik besloten om de prijs van De Spiegel te verlagen, voor de hele maan
 
 Nogmaals: je identiteit in Christus is de basis van christen zijn op je werk. Daarom kost De Spiegel gedurende de hele maand november niet € 14,95 maar **slechts € 9,95**:
 
-[![Klik hier om e-book De Spiegel aan je winkelmand toe te voegen!](/images/koop_nu_knop.png)](http://www.pumbo.nl/koopnu.php?bID=261&qty=1&type=2&action=public)
+[![Klik hier om e-book De Spiegel aan je winkelmand toe te voegen!](/images/koop_nu_knop.png)](http://www.boekenbestellen.nl/boek/despiegel/)
 
-[Koop De Spiegel nu voor slechts € 9,95](http://www.pumbo.nl/koopnu.php?bID=261&qty=1&type=2&action=public) en ontdek wie je bent in Christus!
+[Koop De Spiegel nu voor slechts € 9,95](http://www.boekenbestellen.nl/boek/despiegel/) en ontdek wie je bent in Christus!
